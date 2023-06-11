@@ -7,7 +7,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "webpack-dev-server --config webpack.dev.js --port 3000",
+		"start:frontend":  "webpack-dev-server --config webpack.dev.js --port 3000",
+		"start:backend": "npx json-server --watch db.json --port 8000",
 		"build": "webpack --config webpack.prod.js"
 	},
 	"author": {

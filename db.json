@@ -99,9 +99,9 @@
             "answers": [
                 {
                     "combination": [
-                        "c Ferret",
-                        "a Strawberry Short Cake",
-                        "b Farmhouse"
+                        "Ferret",
+                        "Strawberry Short Cake",
+                        "Farmhouse"
                     ],
                     "text": "Blue Cheese",
                     "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&w=400&h=400&fit=fillmax",
@@ -109,9 +109,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "a Strawberry Short Cake",
-                        "d Modern"
+                        "Dog",
+                        "Strawberry Short Cake",
+                        "Modern"
                     ],
                     "text": "Cheddar",
                     "image": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
@@ -119,9 +119,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "b Mousse",
-                        "c Contemporary"
+                        "Bird",
+                        "Mousse",
+                        "Contemporary"
                     ],
                     "text": "Feta",
                     "image": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
@@ -129,9 +129,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "c Donut",
-                        "d Modern"
+                        "Bird",
+                        "Donut",
+                        "Modern"
                     ],
                     "text": "Halloumi",
                     "image": "https://images.unsplash.com/photo-1598167912234-02576c0c5f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
@@ -139,9 +139,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "d Cheese Cake",
-                        "a Midcentury Modern"
+                        "Bird",
+                        "Cheese Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Goya",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queso_Goya.jpg",
@@ -149,9 +149,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "a Strawberry Short Cake",
-                        "d Modern"
+                        "Bird",
+                        "Strawberry Short Cake",
+                        "Modern"
                     ],
                     "text": "Red Hawk",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg",
@@ -159,9 +159,9 @@
                 },
                 {
                     "combination": [
-                        " b Dog",
-                        "b Mousse",
-                        "c Contemporary"
+                        "Dog",
+                        "Mousse",
+                        "Contemporary"
                     ],
                     "text": "Pepper Jack",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pepperjack_Cheese.jpg",
@@ -169,9 +169,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "c Donut",
-                        "a Midcentury Modern"
+                        "Dog",
+                        "Donut",
+                        "Midcentury Modern"
                     ],
                     "text": "Nacho cheese",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nachos_supreme.jpg/270px-Nachos_supreme.jpg",
@@ -179,9 +179,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "d Cheese Cake",
-                        "d Modern"
+                        "Ferret",
+                        "Cheese Cake",
+                        "Modern"
                     ],
                     "text": "Muenster",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Block_of_Muenster_cheese.jpg",
@@ -189,9 +189,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "d Cheese Cake",
-                        "b Farmhouse"
+                        "Bird",
+                        "Cheese Cake",
+                        "Farmhouse"
                     ],
                     "text": "Humboldt Fog",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheese_30_bg_051906.jpg",
@@ -199,9 +199,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "a Strawberry Short Cake",
-                        "a Midcentury Modern"
+                        "Bird",
+                        "Strawberry Short Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Brick",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brickcheese.jpg",
@@ -209,9 +209,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "a Strawberry Short Cake",
-                        "c Contemporary"
+                        "Bird",
+                        "Strawberry Short Cake",
+                        "Contemporary"
                     ],
                     "text": "Oaxaca",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png",
@@ -219,9 +219,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "b Mouse",
-                        "d Modern"
+                        "Bird",
+                        "Mouse",
+                        "Modern"
                     ],
                     "text": "Criollo",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fromage_criollo._%2815228806466%29.jpg",
@@ -230,8 +230,8 @@
                 {
                     "combination": [
                         "Bird",
-                        "b Mouse",
-                        "a Midcentury Modern"
+                        "Mouse",
+                        "Midcentury Modern"
                     ],
                     "text": "Asadero",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tlayuda_con_Quesillo%2C_Oaxaca.jpg",
@@ -239,9 +239,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "b Mouse",
-                        "b Farmhouse"
+                        "Bird",
+                        "Mouse",
+                        "Farmhouse"
                     ],
                     "text": "Añejo",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Queso_a%C3%B1ejo.JPG/270px-Queso_a%C3%B1ejo.JPG",
@@ -249,9 +249,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "c Donut",
-                        "a Midcentury Modern"
+                        "Bird",
+                        "Donut",
+                        "Midcentury Modern"
                     ],
                     "text": "Adobera",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Adobera.png/270px-Adobera.png",
@@ -259,9 +259,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "c Donut",
-                        "c Contemporary"
+                        "Dog",
+                        "Donut",
+                        "Contemporary"
                     ],
                     "text": "Quesillo",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png/270px-Quesillo_de_Oaxaca.png",
@@ -269,9 +269,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "c Donut",
-                        "b Farmhouse"
+                        "Bird",
+                        "Donut",
+                        "Farmhouse"
                     ],
                     "text": "Cuajada",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuajada.jpg",
@@ -279,9 +279,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "a Strawberry Short Cake",
-                        "b Farmhouse"
+                        "Bird",
+                        "Strawberry Short Cake",
+                        "Farmhouse"
                     ],
                     "text": "Turrialba",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Queso_Turrialba.jpg",
@@ -289,9 +289,9 @@
                 },
                 {
                     "combination": [
-                        "d Bird",
-                        "d Cheese Cake",
-                        "d modern"
+                        "Bird",
+                        "Cheese Cake",
+                        "modern"
                     ],
                     "text": "Palmito",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palmito_cheese.jpg",
@@ -299,9 +299,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "d Cheese Cake",
-                        "b Farmhouse"
+                        "Ferret",
+                        "Cheese Cake",
+                        "Farmhouse"
                     ],
                     "text": "Pikauba",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pikauba_%28fromage%29_03.jpg/270px-Pikauba_%28fromage%29_03.jpg",
@@ -309,9 +309,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "d Cheese Cake",
-                        "c Contemporary"
+                        "Ferret",
+                        "Cheese Cake",
+                        "Contemporary"
                     ],
                     "text": "Hellim",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halloumislicefresh.jpg/270px-Halloumislicefresh.jpg",
@@ -319,9 +319,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "d Cheese Cake",
-                        "a Midcentury Modern"
+                        "Ferret",
+                        "Cheese Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Beyaz peynir",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/White_cheese_from_Turkey.jpg/270px-White_cheese_from_Turkey.jpg",
@@ -329,9 +329,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "c Donut",
-                        "d Modern"
+                        "Ferret",
+                        "Donut",
+                        "Modern"
                     ],
                     "text": "Nabulsi",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%D8%AC%D8%A8%D9%86%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
@@ -339,9 +339,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "c Donut",
-                        "c Contemporary"
+                        "Ferret",
+                        "Donut",
+                        "Contemporary"
                     ],
                     "text": "Jameed",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/270px-Jameed.JPG",
@@ -349,9 +349,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "c Donut",
-                        "b Farmhouse"
+                        "Ferret",
+                        "Donut",
+                        "Farmhouse"
                     ],
                     "text": "Labneh",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Labneh01.jpg",
@@ -359,9 +359,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "c Donut",
-                        "a Midcentury Modern"
+                        "Ferret",
+                        "Donut",
+                        "Midcentury Modern"
                     ],
                     "text": "Pot Cheese",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kupe_paniri.jpg",
@@ -369,9 +369,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "b Mousse",
-                        "d Modern"
+                        "Ferret",
+                        "Mousse",
+                        "Modern"
                     ],
                     "text": "Rumi",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg",
@@ -379,9 +379,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "b Mousse",
-                        "c Contemporary"
+                        "Ferret",
+                        "Mousse",
+                        "Contemporary"
                     ],
                     "text": "Mish",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mesh.jpg/270px-Mesh.jpg",
@@ -389,9 +389,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "b Mousse",
-                        "b Farmhouse"
+                        "Ferret",
+                        "Mousse",
+                        "Farmhouse"
                     ],
                     "text": "Domiati",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Domiati_cheese.jpg/270px-Domiati_cheese.jpg",
@@ -399,9 +399,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "b Mousse",
-                        "a Midcentury Modern"
+                        "Ferret",
+                        "Mousse",
+                        "Midcentury Modern"
                     ],
                     "text": "Bryndza",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bryndza.jpg/270px-Bryndza.jpg",
@@ -409,9 +409,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "a Strawberry Short Cake",
-                        "d Modern"
+                        "Ferret",
+                        "Strawberry Short Cake",
+                        "Modern"
                     ],
                     "text": "Grevé",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wedge_of_Swedish_Grev%C3%A9_cheese.jpg/270px-Wedge_of_Swedish_Grev%C3%A9_cheese.jpg",
@@ -419,9 +419,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "a Strawberry Short Cake",
-                        "c Contemporary"
+                        "Ferret",
+                        "Strawberry Short Cake",
+                        "Contemporary"
                     ],
                     "text": "Parenica",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Parenica.jpg/270px-Parenica.jpg",
@@ -429,9 +429,9 @@
                 },
                 {
                     "combination": [
-                        "c Ferret",
-                        "a Strawberry Short Cake",
-                        "a Midcentury Modern"
+                        "Ferret",
+                        "Strawberry Short Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Korbáčiky",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg/270px-%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg",
@@ -439,9 +439,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "d Cheese Cake",
-                        "d Modern"
+                        "Dog",
+                        "Cheese Cake",
+                        "Modern"
                     ],
                     "text": "Liptauer",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Liptauer.jpg/270px-Liptauer.jpg",
@@ -449,9 +449,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "d Cheese Cake",
-                        "c Contemporary"
+                        "Dog",
+                        "Cheese Cake",
+                        "Contemporary"
                     ],
                     "text": "Tvorog",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tvorog.jpg/270px-Tvorog.jpg",
@@ -459,9 +459,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "d Cheese Cake",
-                        "b Farmhouse"
+                        "Dog",
+                        "Cheese Cake",
+                        "Farmhouse"
                     ],
                     "text": "Circassian",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg",
@@ -469,9 +469,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "d Cheese Cake",
-                        "a Midcentury Modern"
+                        "Dog",
+                        "Cheese Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Cașcaval",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Penteleu.jpg",
@@ -479,9 +479,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "c Donut",
-                        "d Modern"
+                        "Dog",
+                        "Donut",
+                        "Modern"
                     ],
                     "text": "Telemea",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Telemea.jpg",
@@ -489,9 +489,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "c Donut",
-                        "c Contemporary"
+                        "Dog",
+                        "Donut",
+                        "Contemporary"
                     ],
                     "text": "Requeijão",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/RequeijaoCremoso.jpg",
@@ -499,9 +499,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "c Donut",
-                        "b Farmhouse"
+                        "Dog",
+                        "Donut",
+                        "Farmhouse"
                     ],
                     "text": "Norvegia",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Norvegia_Vellagret.JPG",
@@ -509,9 +509,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "b Mousse",
-                        "d Modern"
+                        "Dog",
+                        "Mousse",
+                        "Modern"
                     ],
                     "text": "Jarlsberg",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jarlsberg_cheese.jpg",
@@ -519,9 +519,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "b Mousse",
-                        "b Farmhouse"
+                        "Dog",
+                        "Mousse",
+                        "Farmhouse"
                     ],
                     "text": "Gamalost",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gamalost-NorwegianOldCheese.jpg",
@@ -529,9 +529,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "b Mousse",
-                        "a Midcentury Modern"
+                        "Dog",
+                        "Mousse",
+                        "Midcentury Modern"
                     ],
                     "text": "Brunost",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brunost.jpg",
@@ -539,9 +539,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "a Strawberry Short Cake",
-                        "c Contemporary"
+                        "Dog",
+                        "Strawberry Short Cake",
+                        "Contemporary"
                     ],
                     "text": "Pannónia",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emmental_015.jpg",
@@ -549,9 +549,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "a Strawberry Short Cake",
-                        "b Farmhouse"
+                        "Dog",
+                        "Strawberry Short Cake",
+                        "Farmhouse"
                     ],
                     "text": "Orda",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Urd%C4%83.png",
@@ -559,9 +559,9 @@
                 },
                 {
                     "combination": [
-                        "b Dog",
-                        "a Strawberry Short Cake",
-                        "a Midcentury Modern"
+                        "Dog",
+                        "Strawberry Short Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Trappista",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TrappistenKaeseOffen_1.jpg",
@@ -569,9 +569,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "d Cheese Cake",
-                        "d Modern"
+                        "Cat",
+                        "Cheese Cake",
+                        "Modern"
                     ],
                     "text": "Myzithra",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Homemade_Mizithra.jpg/2560px-Homemade_Mizithra.jpg",
@@ -579,9 +579,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "d Cheese Cake",
-                        "c Contemporary"
+                        "Cat",
+                        "Cheese Cake",
+                        "Contemporary"
                     ],
                     "text": "Metsovone",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%CE%9C%CE%B5%CF%84%CF%83%CE%BF%CE%B2%CF%8C%CE%BD%CE%B5_6304.jpg",
@@ -589,9 +589,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "a Strawberry Short Cake",
-                        "a Midcentury Modern"
+                        "Cat",
+                        "Strawberry Short Cake",
+                        "Midcentury Modern"
                     ],
                     "text": "Manouri",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Manouri.jpg",
@@ -599,9 +599,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "a Strawberry Short Cake",
-                        "c Contemporary"
+                        "Cat",
+                        "Strawberry Short Cake",
+                        "Contemporary"
                     ],
                     "text": "Aura",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aura_juusto.jpg",
@@ -609,9 +609,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "a Strawberry Short Cake",
-                        "b Farmhouse"
+                        "Cat",
+                        "Strawberry Short Cake",
+                        "Farmhouse"
                     ],
                     "text": "Saga",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Soft_and_creamy_Saga_cheese.jpg",
@@ -619,9 +619,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "a Strawberry Short Cake",
-                        "d Modern"
+                        "Cat",
+                        "Strawberry Short Cake",
+                        "Modern"
                     ],
                     "text": "Danish Blue",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Danish_Blue_cheese.jpg",
@@ -629,9 +629,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "b Mousse",
-                        "a Midcentury Modern"
+                        "Cat",
+                        "Mousse",
+                        "Midcentury Modern"
                     ],
                     "text": "Esrom",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Esrom.jpg",
@@ -639,9 +639,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "b Mousse",
-                        "c Contemporary"
+                        "Cat",
+                        "Mousse",
+                        "Contemporary"
                     ],
                     "text": "Staazer",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Staazer_Heublumenk%C3%A4se_SB_01_WikiCheese_Lokal_K.jpg",
@@ -649,9 +649,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "b Mousse",
-                        "b Farmhouse"
+                        "Cat",
+                        "Mousse",
+                        "Farmhouse"
                     ],
                     "text": "Kashkaval",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaschkawal_Kashkaval_%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D0%B2%D0%B0%D0%BB_Balkank%C3%A4se_Sofia_IMG_7649.JPG",
@@ -659,9 +659,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "b Mousse",
-                        "d Modern"
+                        "Cat",
+                        "Mousse",
+                        "Modern"
                     ],
                     "text": "Sura Kees",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sura-Kees.JPG/1280px-Sura-Kees.JPG",
@@ -669,9 +669,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "c Donut",
-                        "a Midcentury Modern"
+                        "Cat",
+                        "Donut",
+                        "Midcentury Modern"
                     ],
                     "text": "Paneer",
                     "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
@@ -679,9 +679,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "c Donut",
-                        "c Contemporary"
+                        "Cat",
+                        "Donut",
+                        "Contemporary"
                     ],
                     "text": "Camembert",
                     "image": "https://images.unsplash.com/photo-1634487359989-3e90c9432133?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
@@ -689,9 +689,9 @@
                 },
                 {
                     "combination": [
-                        "a Cat",
-                        "c Donut",
-                        "b Farmhouse"
+                        "Cat",
+                        "Donut",
+                        "Farmhouse"
                     ],
                     "text": "Sainte-Colome",
                     "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",

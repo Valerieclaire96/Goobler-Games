@@ -51,7 +51,6 @@ function Quiz() {
     refs[highestId].current.scrollIntoView({ behavior: "smooth"})
   }}
  },[unansweredId, chosenAnswer, showAnswer, answerRef, refs]);
-
   return (
     <div className="App">
       <Title title={quiz?.quiz.title} subtitle={quiz?.quiz.subtitle} />

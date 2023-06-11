@@ -2,6 +2,7 @@ import React, { useState, useEffect, forwardRef } from 'react'
 
 export default forwardRef(function AnswerBlock({ answerOptions, chosenAnswers }, ref) {
   const [result, setResult] = useState(null);
+ console.log(result, "here");
   
   useEffect(() => {
     answerOptions.forEach(answer => {
