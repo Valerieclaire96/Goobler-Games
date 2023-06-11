@@ -10,11 +10,12 @@ export default function QuestionBlock({
 }) {
   const handleClick = () => {
     setChosenAnswer((prevState) => [...prevState, question.text]);
-    setUnansweredId(unansweredId.filter((id) => id !==  quizItemId))
+    setUnansweredId(unansweredId.filter((id) => id !== quizItemId));
   };
 
-  const validPick =  !chosenAnswer?.includes(question.text) &&
-  !unansweredId?.includes(quizItemId)
+  const validPick =
+    !chosenAnswer?.includes(question.text) &&
+    !unansweredId?.includes(quizItemId);
   return (
     <div>
       <button

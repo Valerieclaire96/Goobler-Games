@@ -11,7 +11,8 @@ import injectContext from "./store/appContext";
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";
 
-import Quiz from "./pages/Quiz";
+import CheeseQuiz from "./pages/CheeseQuiz";
+import DogQuiz from "./pages/DogQuiz";
 
 //create your first component
 const Layout = () => {
@@ -30,7 +31,9 @@ const Layout = () => {
                         <Route element={<Home />} path="/" />
                         <Route element={<Demo />} path="/demo" />
                         <Route element={<Single />} path="/single/:theid" />
-                        <Route element={<Quiz />} path="quiz" />
+                        <Route element={<CheeseQuiz />} path="/quiz/cheese" />
+                        <Route element={<DogQuiz />} path="/quiz/dog" />
+
                         <Route element={<h1>Not found!</h1>} />
                     </Routes>
                     <Footer />
