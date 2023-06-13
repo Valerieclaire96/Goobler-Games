@@ -253,6 +253,19 @@
                         "Chicken",
                         "Lazy",
                         "Water",
+                        "Cake",
+                        "Like an Hour Ago"
+                    ],
+                    "text": "One Pot Cajun Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e7ecdd854ea441758b553cc016b7bd91/Video_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and Rice",
+                    "link": "https://tasty.co/recipe/one-pot-cajun-chicken-rice"
+                },
+                {
+                    "combination": [
+                        "Chicken",
+                        "Lazy",
+                        "Water",
                         "Cookies",
                         "All day"
                     ],
@@ -724,9 +737,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "Slow Cooker Lo Mein",
-                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-05/sub-buzz-1749-1535467675-6.jpg?crop=720%3A1080%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
-                    "alt": "Lo mein with chicken and vegetables"
+                    "text": "",
+                    "image": "",
+                    "alt": "",
+                    "link": ""
                 },
                 {
                     "combination": [
@@ -1035,9 +1049,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chinese Chicken Fried Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/52478793c56b4fefb3814c477ad7c369/square_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "fried rice",
+                    "link": "https://tasty.co/recipe/chinese-chicken-fried-rice"
                 },
                 {
                     "combination": [
@@ -1047,9 +1062,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sweet and Sour Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/111328.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Breaded chicken in sauce",
+                    "link": "https://tasty.co/recipe/sweet-sour-chicken"
                 },
                 {
                     "combination": [
@@ -1059,9 +1075,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Paprika Chicken and Rice Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/13385.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and rice",
+                    "link": "https://tasty.co/recipe/paprika-chicken-rice"
                 },
                 {
                     "combination": [
@@ -1071,9 +1088,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Por Chicken and Mushroom Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/b10b232738974df18f43119feb35c45d/thumb1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken, mushroom and mushroom",
+                    "link": "https://tasty.co/recipe/chinese-chicken-fried-rice"
                 },
                 {
                     "combination": [
@@ -1083,9 +1101,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Teriyaki Chow Mein",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d7f0a66959f544f5b885f3bd993f072f/BFV43733_ChowMein4Ways_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken chow mein",
+                    "link": "https://tasty.co/recipe/chicken-teriyaki-chow-mein"
                 },
                 {
                     "combination": [
@@ -1095,9 +1114,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Garlic Parmesan Chicken Tenders",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ad95b5782593497cad4a9c0805035a91/BFV8574_GarlicParmesanChickenTenders_FBthumb1x1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken tenders",
+                    "link": "https://tasty.co/recipe/garlic-parmesan-chicken-tenders"
                 },
                 {
                     "combination": [
@@ -1107,9 +1127,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Simple Chili Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/01ac3baeaf1f41598136401ee26084d0/BFV14311_Simple_Chilli_Chicken_TextlessThumbnail.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "rice with rice and peppers",
+                    "link": "https://tasty.co/recipe/simple-chilli-chicken"
                 },
                 {
                     "combination": [
@@ -1119,9 +1140,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Cajun Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e7ecdd854ea441758b553cc016b7bd91/Video_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and rice",
+                    "link": "https://tasty.co/recipe/one-pot-cajun-chicken-rice"
                 },
                 {
                     "combination": [
@@ -1131,9 +1153,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Tuscan White Bean SOup",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2023/03/tuscan-bean-soup-10-380x500.jpg",
+                    "alt": "Soup with sthredded chicken and vegetables",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-tuscan-chicken-white-bean-soup/"
                 },
                 {
                     "combination": [
@@ -1143,9 +1166,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken and Biscuits",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2021-12/1/18/asset/1c118f7435c2/sub-buzz-3560-1638383382-42.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and biscuits with parsley",
+                    "link": "https://tasty.co/recipe/slow-cooker-chicken-biscuits"
                 },
                 {
                     "combination": [
@@ -1155,9 +1179,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Chicken and Veggie Foil Packs",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/11/14/asset/f8cfb592bb03/sub-buzz-125-1591887546-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with peppers, carrots, and broccoli in foil",
+                    "link": "https://www.thekitchn.com/foil-packet-chicken-dinner-recipes-23028024"
                 },
                 {
                     "combination": [
@@ -1167,9 +1192,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken and Veggie Stir Fry",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/5/0/asset/377c068cc838/sub-buzz-1044-1646440773-10.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken in sauce with broccoli and mushrooms",
+                    "link": "https://tasty.co/recipe/chicken-veggie-stir-fry"
                 },
                 {
                     "combination": [
@@ -1179,9 +1205,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle's Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2493053d262844febf4ba930f24509c7/FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/chipotle-s-chicken"
                 },
                 {
                     "combination": [
@@ -1191,9 +1218,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Bacon Broccoli Alfredo",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d282fdea8d9348078ea17cae935c88aa/BFV9208_Spaghetti4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pasta",
+                    "link": "https://tasty.co/recipe/chicken-bacon-broccoli-alfredo"
                 },
                 {
                     "combination": [
@@ -1203,9 +1231,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Chicken Marsala Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/eff71ec36b99489fbde949ba4e30642a/BFV12215_One-PotCreamyChickenMarsalaPasta-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-creamy-chicken-marsala-pasta"
                 },
                 {
                     "combination": [
@@ -1215,9 +1244,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Roasted Chicken and Sweet Potatoes",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/cb5bf201eeef4702bc44b4bff81b9630/BFV34175_One-PanMealsUnder500Calories-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "One-Pan Roasted Chicken and Sweet Potatoes",
+                    "link": "https://tasty.co/recipe/one-pan-roasted-chicken-and-sweet-potatoes"
                 },
                 {
                     "combination": [
@@ -1227,9 +1257,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker BBQ Chicken with Bell Peppers and Onions",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2018/06/bbq-chicken-with-bell-peppers-and-onions-5-380x500.jpg.webp",
+                    "alt": "Chicken in sauce with peppers and onions",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-barbecue-chicken-with-bell-peppers-and-onions/"
                 },
                 {
                     "combination": [
@@ -1239,9 +1270,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Salsa Verde Honey Lime Chicken",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-521-1535465765-1.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Taco with shredded chicken and assortied toppings",
+                    "link": "https://carlsbadcravings.com/slow-cooker-salsa-verde-honey-lime-chicken-recipe/"
                 },
                 {
                     "combination": [
@@ -1251,9 +1283,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Chicken Alfredo Penne",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/9768.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy Pasta",
+                    "link": "https://tasty.co/recipe/easy-chicken-alfredo-penne"
                 },
                 {
                     "combination": [
@@ -1263,9 +1296,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Noodle Wonton Soup",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/0a06c68e3e6c44df83b22fcbf8a05af7.jpeg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup with wontons, carrots, and peas",
+                    "link": "https://tasty.co/recipe/15-minute-chicken-noodle-wonton-soup"
                 },
                 {
                     "combination": [
@@ -1275,9 +1309,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Full Chicken Dinner",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2017/05/full-chicken-dinner-1-of-1-380x500.jpg",
+                    "alt": "Chicken with potatos and green beans",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-full-chicken-dinner/"
                 },
                 {
                     "combination": [
@@ -1287,9 +1322,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sweet and Sour Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/111328.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with peppers and green onion",
+                    "link": "https://tasty.co/recipe/sweet-sour-chicken"
                 },
                 {
                     "combination": [
@@ -1299,9 +1335,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Chicken Alfredo Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e1119589710f4cc19266fc5f05448933/BFV10386_Cheesy_Chicken_Alfredo_Pasta_Bake_Recipe_Photo_2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and cheese casserole",
+                    "link": "https://tasty.co/recipe/cheesy-chicken-alfredo-pasta-bake"
                 },
                 {
                     "combination": [
@@ -1311,9 +1348,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Glazed chicken",
+                    "link": "https://tasty.co/recipe/3-ingredient-teriyaki-chicken"
                 },
                 {
                     "combination": [
@@ -1323,9 +1361,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Honey-Glazed Fried Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/311da325ce5048bfaebc667560d8221a/01_Square.00_00_59_22.Still001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Fried Chicken",
+                    "link": "https://tasty.co/recipe/honey-glazed-fried-chicken"
                 },
                 {
                     "combination": [
@@ -1335,9 +1374,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Pot Pie Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e9434d185e11417fb2720293a5e0cd71/BFV330965SoupsToWarmYourSoulFBV2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/chicken-pot-pie-soup"
                 },
                 {
                     "combination": [
@@ -1347,9 +1387,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Hidden Veggie Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/3915d88346fc4220ad6bf35e220f0132/BFV17407_HiddenVeggieChickenRiceTastyJr_ThumbFB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/hidden-veggie-chicken-rice"
                 },
                 {
                     "combination": [
@@ -1359,9 +1400,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Chicken and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c6630a4d04074d11ab60bfa0cb4b03d1/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stir-fry",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -1371,9 +1413,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Kung Pao Chicken",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/956d0f0dd55b/sub-buzz-993-1646679797-19.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with sesame seeds and vegetables",
+                    "link": "https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/"
                 },
                 {
                     "combination": [
@@ -1383,9 +1426,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Cordon Bleu",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/97867.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken roled with sauce and ahm",
+                    "link": "https://tasty.co/recipe/crispy-creamy-chicken-cordon-bleu"
                 },
                 {
                     "combination": [
@@ -1395,9 +1439,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Penne Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/641e3c1a5f2a48f29b605bff9cbe72b6/BFV10263_CreamyChickenPenne-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with cheese",
+                    "link": "https://tasty.co/recipe/creamy-chicken-penne-pasta"
                 },
                 {
                     "combination": [
@@ -1407,9 +1452,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Piccata",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/950d586508a8462ba3842ba3acbfe3f4/FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with sauce and spaghetti",
+                    "link": "https://tasty.co/recipe/creamy-chicken-piccata"
                 },
                 {
                     "combination": [
@@ -1419,9 +1465,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Pesto Mozzarella  Chicken Pasta",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/956d0f0dd55b/sub-buzz-1022-1646680620-14.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with cheese and herbs",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-pesto-mozzarella-chicken-pasta/"
                 },
                 {
                     "combination": [
@@ -1431,9 +1478,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Oragne Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/131902.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with glaze",
+                    "link": "https://tasty.co/recipe/original-orange-chicken-by-panda-express"
                 },
                 {
                     "combination": [
@@ -1443,9 +1491,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Chicken Alfredo",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a2d506021b4a4256984416bd65e41274/BFV4926_One-PotChickenAlfredo-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy pasta with bread",
+                    "link": "https://tasty.co/recipe/one-pot-chicken-alfredo"
                 },
                 {
                     "combination": [
@@ -1455,9 +1504,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Air Fryer Chicken Parm",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/330889.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Breaded chicken with marianara and cheese",
+                    "link": "https://tasty.co/recipe/air-fryer-chicken-parm"
                 },
                 {
                     "combination": [
@@ -1467,9 +1517,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Honey BBQ Chicken Wings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4c41b09cf41644a7b7ca1780edbeb960/BFV8354_Honey_BBQ_Chicken_Wings-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken wings",
+                    "link": "https://tasty.co/recipe/honey-bbq-chicken-wings"
                 },
                 {
                     "combination": [
@@ -1479,9 +1530,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Chicken Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3fa14efbc61c450d87ce8071995925f8/BFV9176_Chicken_Bake_4-ways_YT1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "BBQ chicken",
+                    "link": "https://tasty.co/recipe/bbq-chicken-bake"
                 },
                 {
                     "combination": [
@@ -1491,9 +1543,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Gyros",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a360484107084401add1475402287908/1504739525_00001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "gyro",
+                    "link": "https://tasty.co/recipe/chicken-gyros"
                 },
                 {
                     "combination": [
@@ -1503,9 +1556,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheesy Lemon Chicken Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/221532.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheesy-lemon-chicken-pasta"
                 },
                 {
                     "combination": [
@@ -1515,9 +1569,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "SLow Cooker Cheesey Chicken Taquitos",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/fcad69b55f07/sub-buzz-991-1646680351-13.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos",
+                    "link": "https://www.sixsistersstuff.com/recipe/slow-cooker-cheesy-chicken-taquitos/"
                 },
                 {
                     "combination": [
@@ -1527,9 +1582,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Hasselback Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/7cacf17aa8df42bd93f699c9a08e11ef/BFV6146_Hasselback_Chicken_Thumb_A.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with cheese and herbs",
+                    "link": "https://tasty.co/recipe/hasselback-chicken"
                 },
                 {
                     "combination": [
@@ -1539,9 +1595,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Noodle Soup",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/f4a9b7128a684ee685fcbd2774c1cac9/BFV8580_Classic_Chicken_Noodle_Soup-THUMBNAIL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup with chicken noddles and carrots",
+                    "link": "https://tasty.co/recipe/classic-chicken-noodle-soup"
                 },
                 {
                     "combination": [
@@ -1551,9 +1608,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Fiery Chicken and Vegetables Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/292568.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy pasta",
+                    "link": "https://tasty.co/recipe/one-pot-fiery-chicken-vegetables-pasta"
                 },
                 {
                     "combination": [
@@ -1563,9 +1621,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "SKillet Chicken Pot Pie",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f2590eb4e8f04d0cbde2f2234daac3dd/BFV22685_4_Easy_Rotisserie_Chicken_Dinners_FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pot Pie",
+                    "link": "https://tasty.co/recipe/skillet-chicken-pot-pie"
                 },
                 {
                     "combination": [
@@ -1575,9 +1634,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cauliflower Rice Chicken Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/96ffe39055d147969d2fbd382c56e0c6/BFV30903_LighterDinnerBakes4Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheesy chicken",
+                    "link": "https://tasty.co/recipe/cauliflower-rice-chicken-bake"
                 },
                 {
                     "combination": [
@@ -1587,9 +1647,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Hasselback Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b92dd89c586e494a85241472bbfd2c05/BFV12652_Hasselback_Chicken_4_Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken breast",
+                    "link": "https://tasty.co/recipe/creamy-bacon-hasselback-chicken"
                 },
                 {
                     "combination": [
@@ -1599,9 +1660,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Chicken Paprikash",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/acd7f176baf544a4ac4cc922c61046bd/BFV5347_Chicken-Paprika_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and pasta",
+                    "link": "https://tasty.co/recipe/easy-chicken-paprikash"
                 },
                 {
                     "combination": [
@@ -1611,9 +1673,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken Cacciatore",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-2048-1535467209-1.jpg?crop=600%3A899%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chciken in sauce with vegetables",
+                    "link": "https://www.foodiecrush.com/slow-cooker-chicken-cacciatore/"
                 },
                 {
                     "combination": [
@@ -1623,9 +1686,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Asparagus-Stuffed Chicken Breast",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c52276e929bb44a0bb1dccc550aff16a/FB_Syphus_AsparagusStuffedChicken_v1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with cheese and asparagus inside",
+                    "link": "https://tasty.co/recipe/asparagus-stuffed-chicken-breast"
                 },
                 {
                     "combination": [
@@ -1635,9 +1699,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cozy Chicken and Dumplins",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/66b0e3ddd9db461c90196060a48b293a/FB_thumb-2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Dumplings in sauce with carrots",
+                    "link": "https://tasty.co/recipe/cozy-chicken-and-dumplings"
                 },
                 {
                     "combination": [
@@ -1647,9 +1712,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Quesodilla",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f74fd31be8064ab697d9c4199cae92d3/BFV28873_6MicrowaveMealsHACK.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Quesodilla",
+                    "link": "https://tasty.co/recipe/microwave-4-minute-chicken-quesadilla"
                 },
                 {
                     "combination": [
@@ -1659,9 +1725,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken Pot Pie",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-2974-1535467546-1.jpg?crop=750%3A1125%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with carrots, celery, and peas with a biscuit",
+                    "link": "https://pipandebby.com/pip-ebby/the-best-slow-cooker-chicken-pot-pie/#_a5y_p=6231961"
                 },
                 {
                     "combination": [
@@ -1671,9 +1738,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sheet Pan Chicken Strips and Veggies",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/174452.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken strips and veggies",
+                    "link": "https://tasty.co/recipe/sheet-pan-crispy-chicken-strips-and-veggies"
                 },
                 {
                     "combination": [
@@ -1683,9 +1751,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Chicken Adobo",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/37925.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken adobo",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-adobo"
                 },
                 {
                     "combination": [
@@ -1695,9 +1764,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Chicken and Broccoli Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/3cec8b2008e4472da4341d95ce61cb58/One-Pot_Creamy_Chicken_And_Broccoli_Pasta_THUMB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-creamy-chicken-and-broccoli-pasta"
                 },
                 {
                     "combination": [
@@ -1707,9 +1777,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Fried Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/52478793c56b4fefb3814c477ad7c369/square_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Fried rice with chicken and vegetables",
+                    "link": "https://tasty.co/recipe/chinese-chicken-fried-rice"
                 },
                 {
                     "combination": [
@@ -1719,9 +1790,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Piccata",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/df534e3f85894560a9540faa18b6e619/BFV6269_EasyChickenPiccata-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/easy-chicken-piccata"
                 },
                 {
                     "combination": [
@@ -1731,9 +1803,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Air Fryer Chicken Wings",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/5692d94f74954f16b79217fe3735e534/chickenwing.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken Wings",
+                    "link": "https://tasty.co/recipe/air-fryer-zesty-chicken-wings"
                 },
                 {
                     "combination": [
@@ -1743,9 +1816,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Air Fryer Chicken Wings",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/5692d94f74954f16b79217fe3735e534/chickenwing.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken Wings",
+                    "link": "https://tasty.co/recipe/air-fryer-zesty-chicken-wings"
                 },
                 {
                     "combination": [
@@ -1755,9 +1829,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Jalpeno Popper Dip-Stuffed Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/814dad26dd94486a8de1196ba36a946d/BFV12359_JalapenoPopperStuffedChicken-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed chicken",
+                    "link": "https://tasty.co/recipe/jalapeno-popper-dip-stuffed-chicken"
                 },
                 {
                     "combination": [
@@ -1767,9 +1842,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crispy Chicken Sandwhich",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/449789.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken sandwhiches",
+                    "link": "https://tasty.co/recipe/crispy-chicken-sandwich"
                 },
                 {
                     "combination": [
@@ -1779,9 +1855,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Tuscan Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1c4c0c0dece7467c9c4175cb759ed6a7/BFV14220_3CourseTuscanChickenDinner-FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with creamy sauce",
+                    "link": "https://tasty.co/recipe/creamy-tuscan-chicken"
                 },
                 {
                     "combination": [
@@ -1791,9 +1868,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Southwestern Chicken Quinoa",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e74342f1eb644ed590cdc2c5137d41f5/BFV4080_One-Pan_Southwestern_Chicken_Quinoa.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Quinoa with beans and chicken",
+                    "link": "https://tasty.co/recipe/one-pan-southwestern-chicken-quinoa"
                 },
                 {
                     "combination": [
@@ -1803,9 +1881,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crock Pot Chicken Gnocchi Soup",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-03/sub-buzz-16574-1535467732-4.jpg?crop=1200%3A1800%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy soup",
+                    "link": "https://pinchofyum.com/crockpot-chicken-gnocchi-soup"
                 },
                 {
                     "combination": [
@@ -1815,9 +1894,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Fried Rice",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5771490057ff462094b2e79260b2d9c0/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "fried rice",
+                    "link": "https://tasty.co/recipe/chicken-fried-rice"
                 },
                 {
                     "combination": [
@@ -1827,9 +1907,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken and Pesto Zucchini Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/373ed9a16b3b4d0da206ba367a1b4a45/FB_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pasta",
+                    "link": "https://tasty.co/recipe/chicken-pesto-and-zucchini-pasta"
                 },
                 {
                     "combination": [
@@ -1839,9 +1920,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Chicken Enchiladas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/84f42708eb584d28b3d7f7315067d9cd/fb_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "enchiladas",
+                    "link": "https://tasty.co/recipe/cheesy-chicken-enchiladas"
                 },
                 {
                     "combination": [
@@ -1851,9 +1933,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crock Pot Chicken and Dumplins",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/11/asset/buzzfeed-prod-web-05/sub-buzz-7031-1535471236-1.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy chicken with carrots",
+                    "link": "https://www.spendwithpennies.com/crock-pot-chicken-and-dumplings/"
                 },
                 {
                     "combination": [
@@ -1863,9 +1946,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Stuffed Chicken Parmesan",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/cbd8e8ef6d8b4dcba1253a4fbc93ab7e/BFV11405_StuffedChickenParmesan-Beauty.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken stuffed with cheese",
+                    "link": "https://tasty.co/recipe/stuffed-chicken-parmesan"
                 },
                 {
                     "combination": [
@@ -1875,9 +1959,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Spinach Alfredo Rotini Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b15fd97f839340d494cb76a6bdc5b5b0/BFV12435_EnglishRotiniPasta4Ways-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy pasta with spinach",
+                    "link": "https://tasty.co/recipe/chicken-spinach-alfredo-rotini-pasta"
                 },
                 {
                     "combination": [
@@ -1887,9 +1972,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pan Garlic Chicken Pesto Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/090840ab095f4b85bda2d3660c26e45c/BFV7162_One-Pan_Garlic_Chicken_Pesto_Pasta-fb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with pesto and cheese",
+                    "link": "https://tasty.co/recipe/one-pan-garlic-chicken-pesto-pasta"
                 },
                 {
                     "combination": [
@@ -1899,9 +1985,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crock Pot Chicken and Dumplins",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/11/asset/buzzfeed-prod-web-05/sub-buzz-7031-1535471236-1.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy chicken with carrots",
+                    "link": "https://www.spendwithpennies.com/crock-pot-chicken-and-dumplings/"
                 },
                 {
                     "combination": [
@@ -1911,9 +1998,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Chimichanga",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/93f531f93ad945409e6415a32137bdda/creamy_chicken_FB_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chimichanga",
+                    "link": "https://tasty.co/recipe/creamy-chicken-chimichanga"
                 },
                 {
                     "combination": [
@@ -1923,9 +2011,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Parmesan Chicken and Vegetable Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/fea765f6ae3f442b90cc69bb9fa8d8ed/BFV12753_One-PanGarlicParmesanChickenAndVegetables-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and vegetables",
+                    "link": "https://tasty.co/recipe/one-pan-garlic-parmesan-chicken-and-vegetable-bake"
                 },
                 {
                     "combination": [
@@ -1935,9 +2024,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Tortilla Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/0c67e4596d714d90a86fed8dd99c38be/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "soup",
+                    "link": "https://tasty.co/recipe/chicken-tortilla-soup"
                 },
                 {
                     "combination": [
@@ -1947,9 +2037,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pesto-Stuffed Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/30b2c3fdd74c4da6bb6950326bee7118/BF_THUMB_Square.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed chicken",
+                    "link": "https://tasty.co/recipe/pesto-stuffed-chicken"
                 },
                 {
                     "combination": [
@@ -1959,9 +2050,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Chimichanga",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/93f531f93ad945409e6415a32137bdda/creamy_chicken_FB_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chimichanga",
+                    "link": "https://tasty.co/recipe/creamy-chicken-chimichanga"
                 },
                 {
                     "combination": [
@@ -1971,9 +2063,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Parmesan Chicken and Vegetable Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/fea765f6ae3f442b90cc69bb9fa8d8ed/BFV12753_One-PanGarlicParmesanChickenAndVegetables-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and vegetables",
+                    "link": "https://tasty.co/recipe/one-pan-garlic-parmesan-chicken-and-vegetable-bake"
                 },
                 {
                     "combination": [
@@ -1983,9 +2076,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Tortilla Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/0c67e4596d714d90a86fed8dd99c38be/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "soup",
+                    "link": "https://tasty.co/recipe/chicken-tortilla-soup"
                 },
                 {
                     "combination": [
@@ -1995,9 +2089,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crock Pot Chicken and Dumplins",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/11/asset/buzzfeed-prod-web-05/sub-buzz-7031-1535471236-1.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy chicken with carrots",
+                    "link": "https://www.spendwithpennies.com/crock-pot-chicken-and-dumplings/"
                 },
                 {
                     "combination": [
@@ -2007,9 +2102,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Parm Lasagna",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/0ea70bbbff66482f93f6adec328f0450/BFV14079_ChickenParmLasagna-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Lasagna",
+                    "link": "https://tasty.co/recipe/chicken-parm-lasagna"
                 },
                 {
                     "combination": [
@@ -2019,9 +2115,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Lemon Butter Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/4e6917335fc44b89a4f47fe591f94f5d/Thumb_B.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Roasted Chicken",
+                    "link": "https://tasty.co/recipe/creamy-lemon-butter-chicken"
                 },
                 {
                     "combination": [
@@ -2031,9 +2128,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Honey Garlic Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ba8b9b30531c4058956bbe5c1296bbc8/Thumb_A_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Roasted chicken",
+                    "link": "https://tasty.co/recipe/one-pan-honey-garlic-chicken"
                 },
                 {
                     "combination": [
@@ -2043,9 +2141,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Tikka Masala",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/d03461e6d185483da8317cf9ee03433e/BFV18861_ChickenTikkaMasala-ThumbA1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken tikka masala",
+                    "link": "https://tasty.co/recipe/homemade-chicken-tikka-masala"
                 },
                 {
                     "combination": [
@@ -2055,9 +2154,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Cacciatore",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/1382895d667748a88efbaadd50c10f03/FB_2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken Cacciatore",
+                    "link": "https://tasty.co/recipe/chicken-cacciatore"
                 },
                 {
                     "combination": [
@@ -2067,9 +2167,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Lemon Chicken and Asparagus Stir-Fry",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2ae24afe483c4568b76f487777fc1739/BFV12624_LemonChickenandAsparagusStirFry-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stir-fry",
+                    "link": "https://tasty.co/recipe/lemon-chicken-and-asparagus-stir-fry"
                 },
                 {
                     "combination": [
@@ -2079,9 +2180,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Balsamic Chicken and Veggies",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/96ffe39055d147969d2fbd382c56e0c6/BFV30903_LighterDinnerBakes4Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and vegetables",
+                    "link": "https://tasty.co/recipe/one-pan-balsamic-chicken-veggies"
                 },
                 {
                     "combination": [
@@ -2091,9 +2193,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Salsa Chicken Quinoa Casserole",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/11/asset/buzzfeed-prod-web-03/sub-buzz-20819-1535470442-3.jpg?crop=640%3A640%3B0%2C285&downsize=500:*&output-format=auto&output-quality=auto",
+                    "alt": "Casserole topped with sour cream, limes, tomatoes, and avacado",
+                    "link": "https://diethood.com/crock-pot-salsa-chicken-quinoa-casserole-recipe/"
                 },
                 {
                     "combination": [
@@ -2103,9 +2206,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Buttermilk Fried Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3fa26a26e9bf46adb74ccf23890e9a54/BFV14278_FriedChickenFromAroundTheWorld3.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Fried Chicken legs",
+                    "link": "https://tasty.co/recipe/american-buttermilk-fried-chicken"
                 },
                 {
                     "combination": [
@@ -2115,9 +2219,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Fajita Quesodillas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/38afcf99ffbf4e3e8dbcc2162cfb8535/BFV6111_Chicken_Fajita_Quesadillas_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Quesodillas",
+                    "link": "https://tasty.co/recipe/chicken-fajita-quesadillas"
                 },
                 {
                     "combination": [
@@ -2127,9 +2232,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Fajota Parchment-Baked Chicken",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2023-04/19/15/asset/82c19baee9c9/sub-buzz-1261-1681919507-9.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+                    "alt": "Chicken and Peppers",
+                    "link": "https://tasty.co/recipe/fajita-parchment-baked-chicken"
                 },
                 {
                     "combination": [
@@ -2139,9 +2245,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Chicken Sliders",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/45f10c59426f4bcf8ff48b5a7c97e68c/BFV10402_Sliders4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "sliders",
+                    "link": "https://tasty.co/recipe/bbq-chicken-sliders"
                 },
                 {
                     "combination": [
@@ -2151,9 +2258,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pineapple Sweet and Sour Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a6b8e2677bf849989a364899ba9cc00f/BF_THUMB_Square.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "breaded and sauced chicken",
+                    "link": "https://tasty.co/recipe/pineapple-sweet-sour-chicken"
                 },
                 {
                     "combination": [
@@ -2163,9 +2271,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Garlic Chicken Primavera",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9cc8999da622439c825aada3dc31db73/BFV10008_Penne4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pasta",
+                    "link": "https://tasty.co/recipe/garlic-chicken-primavera"
                 },
                 {
                     "combination": [
@@ -2175,9 +2284,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Pesto Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9c3ee55230fe4ae5a88ca9d451c3895f/Thumb_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pasta",
+                    "link": "https://tasty.co/recipe/one-pot-pesto-chicken-pasta"
                 },
                 {
                     "combination": [
@@ -2187,9 +2297,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken Thighs",
+                    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/11/3/1/FNK_Slow-Cooker-Chicken-Thighs_s4x3.jpg.rend.hgtvcom.966.725.suffix/1478232033629.jpeg",
+                    "alt": "Glazed chicken and rice",
+                    "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/slow-cooker-chicken-thighs-3565651"
                 },
                 {
                     "combination": [
@@ -2199,9 +2310,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesey Chicken Broccoli Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/fda0057dfb2d4a6a8063128d14db4f53/BFV11613_CheesyChickenandRiceCasserole-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken iwht cheese and rice",
+                    "link": "https://tasty.co/recipe/cheesy-chicken-broccoli-bake"
                 },
                 {
                     "combination": [
@@ -2211,9 +2323,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Lemon Chicken and Asparagus Stir-Fry",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2ae24afe483c4568b76f487777fc1739/BFV12624_LemonChickenandAsparagusStirFry-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with asparagus",
+                    "link": "https://tasty.co/recipe/lemon-chicken-and-asparagus-stir-fry"
                 },
                 {
                     "combination": [
@@ -2223,9 +2336,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Fajita Quesodillas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/38afcf99ffbf4e3e8dbcc2162cfb8535/BFV6111_Chicken_Fajita_Quesadillas_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Quesodillas",
+                    "link": "https://tasty.co/recipe/chicken-fajita-quesadillas"
                 },
                 {
                     "combination": [
@@ -2235,9 +2349,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Spicy Korean Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8ca80aec6f49435a87f8c0419c4bc4c7/BFV14278_FriedChickenFromAroundTheWorld3.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "glazed chicken",
+                    "link": "https://tasty.co/recipe/spicy-korean-chicken"
                 },
                 {
                     "combination": [
@@ -2247,9 +2362,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Bacon alfredo Roll Ups",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2cd54304eecd4c6ba855995929ac269e/BFV9090_Chicken_Alfredo_Rollups__Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken Bacon alfredo Roll Ups",
+                    "link": "image.png"
                 },
                 {
                     "combination": [
@@ -2259,9 +2375,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Chicken Pasta Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/f5ade71774bd4f88ac7d6005307b48ea/BFV10404_BBQChickenPastaBake-BeautyShot.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/bbq-chicken-pasta-bake"
                 },
                 {
                     "combination": [
@@ -2271,9 +2388,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Lemon Butter Chickn Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/8d14f3aecda447e3b96ea5068ef248ee/BFV11031_Creamy_Lemon_Butter_Chicken_Pasta_THUMB_A.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/creamy-lemon-butter-chicken-pasta"
                 },
                 {
                     "combination": [
@@ -2283,9 +2401,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": " Slow-Cooker Soy-Citrus Chicken ",
+                    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/12/19/2/FNM_010115-Slow-Cooker-Soy-Citrus-Chicken-Recipe_s4x3.jpg.rend.hgtvcom.966.725.suffix/1419359240943.jpeg",
+                    "alt": "Chicken with greens",
+                    "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/slow-cooker-soy-citrus-chicken-3363420"
                 },
                 {
                     "combination": [
@@ -2295,9 +2414,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "40 Clove Garlic Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/120895.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with garlic",
+                    "link": "https://tasty.co/recipe/40-clove-garlic-chicken"
                 },
                 {
                     "combination": [
@@ -2307,9 +2427,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cilantro Lime Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/70defc85fe5c40ddb249ea76d93a0f75/Thumb_1_copy.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with rice and cilantro",
+                    "link": "https://tasty.co/recipe/one-pot-cilantro-lime-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2319,9 +2440,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan chicken and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c6630a4d04074d11ab60bfa0cb4b03d1/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with vegetables and sesame seeds",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -2331,9 +2453,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Fried Chicken and Egg Rice Bowl",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/d27c6d5ef119417eac91b84576eb4e77/BFV6896_Chicken-Katsudon_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "rice bowl",
+                    "link": "https://tasty.co/recipe/fried-chicken-and-egg-rice-bowl"
                 },
                 {
                     "combination": [
@@ -2343,9 +2466,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Parmesan Chicken Sliders",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2d2c754860c743e7a174f319b814790e/BFV10402_Sliders4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Sliders",
+                    "link": "https://tasty.co/recipe/chicken-parmesan-sliders"
                 },
                 {
                     "combination": [
@@ -2355,9 +2479,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Fajita Rice and Veggie Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/703dec1886cc4e0f85cfbf9e963d653a/FBC.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and rice",
+                    "link": "https://tasty.co/recipe/easy-chicken-fajita-chicken-and-veggie-bake"
                 },
                 {
                     "combination": [
@@ -2367,9 +2492,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Pesto Chicken Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9c3ee55230fe4ae5a88ca9d451c3895f/Thumb_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-pesto-chicken-pasta"
                 },
                 {
                     "combination": [
@@ -2379,9 +2505,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sweet and Sour Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/111328.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Breaded chicken in sauce",
+                    "link": "https://tasty.co/recipe/sweet-sour-chicken"
                 },
                 {
                     "combination": [
@@ -2391,9 +2518,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Paprika Chicken and Rice Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/13385.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and rice",
+                    "link": "https://tasty.co/recipe/paprika-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2403,9 +2531,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Por Chicken and Mushroom Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/b10b232738974df18f43119feb35c45d/thumb1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken, mushroom and mushroom",
+                    "link": "https://tasty.co/recipe/chinese-chicken-fried-rice"
                 },
                 {
                     "combination": [
@@ -2415,9 +2544,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Teriyaki Chow Mein",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d7f0a66959f544f5b885f3bd993f072f/BFV43733_ChowMein4Ways_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken chow mein",
+                    "link": "https://tasty.co/recipe/chicken-teriyaki-chow-mein"
                 },
                 {
                     "combination": [
@@ -2427,9 +2557,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cajun Chicken Alfredo",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d3ae44537ad0426fb01b7f96b5c9c47b/BFV10008_Penne4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken alfredo",
+                    "link": "https://tasty.co/recipe/cajun-chicken-alfredo"
                 },
                 {
                     "combination": [
@@ -2439,9 +2570,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Chicken Spinach Bacon Alfredo",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/90b7af881f274a4c96e1117feddae29a/BFV12522_OnePotChickenSpinachBaconAlfredo-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-chicken-spinach-bacon-alfredo"
                 },
                 {
                     "combination": [
@@ -2451,9 +2583,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cilantro Lime Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/70defc85fe5c40ddb249ea76d93a0f75/Thumb_1_copy.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/one-pot-cilantro-lime-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2463,9 +2596,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow-Cooker Honey Garlic Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/1eafa5f73e4548e7a5aaa3e40370e6f8/BFV15863_SlowCookerHoneyGarlicChickenThumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and Vegetables",
+                    "link": "https://tasty.co/recipe/slow-cooker-honey-garlic-chicken"
                 },
                 {
                     "combination": [
@@ -2475,9 +2609,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Lemon Garlic Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/5859daf4291f4eea8a40eb106864ece4/BFV15983_Lemon_Garlic_Chicken_TextlessThumbnail.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "hicken with broccoli and lemon slice",
+                    "link": "https://tasty.co/recipe/slow-cooker-lemon-garlic-chicken"
                 },
                 {
                     "combination": [
@@ -2487,9 +2622,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Chicken Fajita Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/128650.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with peppers and chicken",
+                    "link": "https://tasty.co/recipe/one-pot-chicken-fajita-pasta"
                 },
                 {
                     "combination": [
@@ -2499,9 +2635,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Chicken and Broccoli Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2de9ee0b60944ff6a0dc73aee761c061/BFV6664_CheesyChickenAndBroccoliPasta_FBthumbB1080sq.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Shell Pasta with chicken and broccoli",
+                    "link": "https://tasty.co/recipe/cheesy-chicken-and-broccoli-pasta"
                 },
                 {
                     "combination": [
@@ -2511,9 +2648,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Shredded Chicken Tacos",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/16dbf6066a4e457dae7b39d11d6d4c96/BFV8373_SlowCookerShreddedChickenTacos-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tacos with shredded chicken and avacado",
+                    "link": "https://tasty.co/recipe/slow-cooker-shredded-tacos"
                 },
                 {
                     "combination": [
@@ -2523,9 +2661,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Honey Teriyaki Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/0256f7e6855040a1a0c71cdaba6bc3f0/Video_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Shredded chicken on rice with sesame seeds",
+                    "link": "https://tasty.co/recipe/slow-cooker-honey-teriyaki-chicken"
                 },
                 {
                     "combination": [
@@ -2535,9 +2674,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Cajun Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e7ecdd854ea441758b553cc016b7bd91/Video_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and Rice",
+                    "link": "https://tasty.co/recipe/one-pot-cajun-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2547,9 +2687,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Honey-Lime Chicken and Avocado Salad",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/c2ab8caf2d39414082ba6d1adee68db1/BFV10627_Honey-Lime_Chicken_and_Avocado_Salad_Thumb_A_-_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Salad",
+                    "link": "https://tasty.co/recipe/honey-lime-chicken-and-avocado-salad"
                 },
                 {
                     "combination": [
@@ -2559,9 +2700,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow-Cooker Chicken Tacos",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/1e6833f37e47462dad5f786655eabc3f/BFV18664_SlowCookerChickenTacosThumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/slow-cooker-chicken-tacos"
                 },
                 {
                     "combination": [
@@ -2571,9 +2713,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crispy Chicken Parmesan",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/60ab4f4486644ae7a1d908298fc5881a/fb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken parmesan",
+                    "link": "https://tasty.co/recipe/the-best-crispy-chicken-parmesan"
                 },
                 {
                     "combination": [
@@ -2583,9 +2726,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Parmesan Baked Ziti",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/faf42e0f87a54b4dabb13654d48e0970/BFV3979_Chicken_Parmesan_Baked_Ziti.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/chicken-parmesan-baked-ziti"
                 },
                 {
                     "combination": [
@@ -2595,9 +2739,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Lemon Pepper Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/20879.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/one-pot-lemon-pepper-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2607,9 +2752,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Jerk Chicken",
+                    "image": "https://hips.hearstapps.com/hmg-prod/images/slow-cooker-chicken-recipes-jerk-1592941147.jpg?crop=1.00xw:0.834xh;0,0&resize=980:*",
+                    "alt": "Crispy Chicken with herbs",
+                    "link": "http://cookingandbeer.com/2016/07/crispy-skin-slow-cooker-jerk-chicken/"  
                 },
                 {
                     "combination": [
@@ -2619,9 +2765,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Orange Chicken",
+                    "image": "https://hips.hearstapps.com/hmg-prod/images/slow-cooker-chicken-recipes-orange-1592941785.jpg?crop=1.00xw:0.834xh;0,0.0288xh&resize=980:*",
+                    "alt": "Galzed Chicken with rice",
+                    "link": "https://www.averiecooks.com/wp-json/mv-create/v1/creations/343/print"
                 },
                 {
                     "combination": [
@@ -2631,9 +2778,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Chicken Alfredo Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/357032.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy soup with spinach",
+                    "link": "https://tasty.co/recipe/easy-one-pot-chicken-alfredo-soup"
                 },
                 {
                     "combination": [
@@ -2643,9 +2791,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One pan Chicken and Veggies",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f5def83e99dc43379272c3e8ae488e50/BFV5624_OnePanChickenAndVeggies_FBexport1080sq.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Roasted Chicken with sweet potato and broccoli",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-and-veggies-1"
                 },
                 {
                     "combination": [
@@ -2655,9 +2804,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Butter Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e61803b8efd84ca680a7769a52650830/BFV15753_Slow_Cooker_Butter_Chicken_Textless_Thumbnail.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Butter chicken",
+                    "link": "https://tasty.co/recipe/slow-cooker-butter-chicken"
                 },
                 {
                     "combination": [
@@ -2667,9 +2817,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Garlic Parmesan Chicken Tenders",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ad95b5782593497cad4a9c0805035a91/BFV8574_GarlicParmesanChickenTenders_FBthumb1x1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken tenders",
+                    "link": "https://tasty.co/recipe/garlic-parmesan-chicken-tenders"
                 },
                 {
                     "combination": [
@@ -2679,9 +2830,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Simple Chili Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/01ac3baeaf1f41598136401ee26084d0/BFV14311_Simple_Chilli_Chicken_TextlessThumbnail.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "rice with rice and peppers",
+                    "link": "https://tasty.co/recipe/simple-chilli-chicken"
                 },
                 {
                     "combination": [
@@ -2691,9 +2843,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Cajun Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e7ecdd854ea441758b553cc016b7bd91/Video_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken and rice",
+                    "link": "https://tasty.co/recipe/one-pot-cajun-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2703,9 +2856,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Tuscan White Bean Soup",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2023/03/tuscan-bean-soup-10-380x500.jpg",
+                    "alt": "Soup with sthredded chicken and vegetables",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-tuscan-chicken-white-bean-soup/"
                 },
                 {
                     "combination": [
@@ -2715,9 +2869,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken and Biscuits",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2021-12/1/18/asset/1c118f7435c2/sub-buzz-3560-1638383382-42.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and biscuits with parsley",
+                    "link": "https://tasty.co/recipe/slow-cooker-chicken-biscuits"
                 },
                 {
                     "combination": [
@@ -2727,9 +2882,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Chicken and Veggie Foil Packs",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/11/14/asset/f8cfb592bb03/sub-buzz-125-1591887546-1.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with peppers, carrots, and broccoli in foil",
+                    "link": "https://www.thekitchn.com/foil-packet-chicken-dinner-recipes-23028024"
                 },
                 {
                     "combination": [
@@ -2739,9 +2895,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken and Veggie Stir Fry",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/5/0/asset/377c068cc838/sub-buzz-1044-1646440773-10.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken in sauce with broccoli and mushrooms",
+                    "link": "https://tasty.co/recipe/chicken-veggie-stir-fry"
                 },
                 {
                     "combination": [
@@ -2751,9 +2908,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle's Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2493053d262844febf4ba930f24509c7/FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/chipotle-s-chicken"
                 },
                 {
                     "combination": [
@@ -2763,9 +2921,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Bacon Broccoli Alfredo",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d282fdea8d9348078ea17cae935c88aa/BFV9208_Spaghetti4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pasta",
+                    "link": "https://tasty.co/recipe/chicken-bacon-broccoli-alfredo"
                 },
                 {
                     "combination": [
@@ -2775,9 +2934,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Chicken Marsala Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/eff71ec36b99489fbde949ba4e30642a/BFV12215_One-PotCreamyChickenMarsalaPasta-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-creamy-chicken-marsala-pasta"
                 },
                 {
                     "combination": [
@@ -2787,9 +2947,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Roasted Chicken and Sweet Potatoes",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/cb5bf201eeef4702bc44b4bff81b9630/BFV34175_One-PanMealsUnder500Calories-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "One-Pan Roasted Chicken and Sweet Potatoes",
+                    "link": "https://tasty.co/recipe/one-pan-roasted-chicken-and-sweet-potatoes"
                 },
                 {
                     "combination": [
@@ -2799,9 +2960,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker BBQ Chicken with Bell Peppers and Onions",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2018/06/bbq-chicken-with-bell-peppers-and-onions-5-380x500.jpg.webp",
+                    "alt": "Chicken in sauce with peppers and onions",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-barbecue-chicken-with-bell-peppers-and-onions/"
                 },
                 {
                     "combination": [
@@ -2811,9 +2973,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Salsa Verde Honey Lime Chicken",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-521-1535465765-1.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Taco with shredded chicken and assortied toppings",
+                    "link": "https://carlsbadcravings.com/slow-cooker-salsa-verde-honey-lime-chicken-recipe/"
                 },
                 {
                     "combination": [
@@ -2823,9 +2986,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Chicken Alfredo Penne",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/9768.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy Pasta",
+                    "link": "https://tasty.co/recipe/easy-chicken-alfredo-penne"
                 },
                 {
                     "combination": [
@@ -2835,9 +2999,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Noodle Wonton Soup",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/0a06c68e3e6c44df83b22fcbf8a05af7.jpeg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup with wontons, carrots, and peas",
+                    "link": "https://tasty.co/recipe/15-minute-chicken-noodle-wonton-soup"
                 },
                 {
                     "combination": [
@@ -2847,9 +3012,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Full Chicken Dinner",
+                    "image": "https://www.themagicalslowcooker.com/wp-content/uploads/2017/05/full-chicken-dinner-1-of-1-380x500.jpg",
+                    "alt": "Chicken with potatos and green beans",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-full-chicken-dinner/"
                 },
                 {
                     "combination": [
@@ -2859,9 +3025,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sweet and Sour Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/111328.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with peppers and green onion",
+                    "link": "https://tasty.co/recipe/sweet-sour-chicken"
                 },
                 {
                     "combination": [
@@ -2871,9 +3038,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Chicken Alfredo Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/e1119589710f4cc19266fc5f05448933/BFV10386_Cheesy_Chicken_Alfredo_Pasta_Bake_Recipe_Photo_2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and cheese casserole",
+                    "link": "https://tasty.co/recipe/cheesy-chicken-alfredo-pasta-bake"
                 },
                 {
                     "combination": [
@@ -2883,9 +3051,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Glazed chicken",
+                    "link": "https://tasty.co/recipe/3-ingredient-teriyaki-chicken"
                 },
                 {
                     "combination": [
@@ -2895,9 +3064,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Honey-Glazed Fried Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/311da325ce5048bfaebc667560d8221a/01_Square.00_00_59_22.Still001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Fried Chicken",
+                    "link": "https://tasty.co/recipe/honey-glazed-fried-chicken"
                 },
                 {
                     "combination": [
@@ -2907,9 +3077,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Pot Pie Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e9434d185e11417fb2720293a5e0cd71/BFV330965SoupsToWarmYourSoulFBV2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/chicken-pot-pie-soup"
                 },
                 {
                     "combination": [
@@ -2919,9 +3090,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Hidden Veggie Chicken and Rice",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/3915d88346fc4220ad6bf35e220f0132/BFV17407_HiddenVeggieChickenRiceTastyJr_ThumbFB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and rice",
+                    "link": "https://tasty.co/recipe/hidden-veggie-chicken-rice"
                 },
                 {
                     "combination": [
@@ -2931,9 +3103,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Chicken and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c6630a4d04074d11ab60bfa0cb4b03d1/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stir-fry",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -2943,9 +3116,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Kung Pao Chicken",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/956d0f0dd55b/sub-buzz-993-1646679797-19.jpg?crop=650%3A975%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with sesame seeds and vegetables",
+                    "link": "https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/"
                 },
                 {
                     "combination": [
@@ -2955,9 +3129,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Cordon Bleu",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/97867.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken roled with sauce and ahm",
+                    "link": "https://tasty.co/recipe/crispy-creamy-chicken-cordon-bleu"
                 },
                 {
                     "combination": [
@@ -2967,9 +3142,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Penne Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/641e3c1a5f2a48f29b605bff9cbe72b6/BFV10263_CreamyChickenPenne-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with cheese",
+                    "link": "https://tasty.co/recipe/creamy-chicken-penne-pasta"
                 },
                 {
                     "combination": [
@@ -2979,9 +3155,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Chicken Piccata",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/950d586508a8462ba3842ba3acbfe3f4/FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with sauce and spaghetti",
+                    "link": "https://tasty.co/recipe/creamy-chicken-piccata"
                 },
                 {
                     "combination": [
@@ -2991,9 +3168,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Pesto Mozzarella  Chicken Pasta",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/956d0f0dd55b/sub-buzz-1022-1646680620-14.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with cheese and herbs",
+                    "link": "https://www.themagicalslowcooker.com/slow-cooker-pesto-mozzarella-chicken-pasta/"
                 },
                 {
                     "combination": [
@@ -3003,9 +3181,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Oragne Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/131902.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with glaze",
+                    "link": "https://tasty.co/recipe/original-orange-chicken-by-panda-express"
                 },
                 {
                     "combination": [
@@ -3015,9 +3194,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Chicken Alfredo",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a2d506021b4a4256984416bd65e41274/BFV4926_One-PotChickenAlfredo-Thumb1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy pasta with bread",
+                    "link": "https://tasty.co/recipe/one-pot-chicken-alfredo"
                 },
                 {
                     "combination": [
@@ -3027,9 +3207,11 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Air Fryer Chicken Parm",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/330889.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Breaded chicken with marianara and cheese",
+                    "link": "https://tasty.co/recipe/air-fryer-chicken-parm"
+                
                 },
                 {
                     "combination": [
@@ -3039,9 +3221,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Honey BBQ Chicken Wings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4c41b09cf41644a7b7ca1780edbeb960/BFV8354_Honey_BBQ_Chicken_Wings-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken wings",
+                    "link": "https://tasty.co/recipe/honey-bbq-chicken-wings"
                 },
                 {
                     "combination": [
@@ -3051,9 +3234,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Chicken Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3fa14efbc61c450d87ce8071995925f8/BFV9176_Chicken_Bake_4-ways_YT1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "BBQ chicken",
+                    "link": "https://tasty.co/recipe/bbq-chicken-bake"
                 },
                 {
                     "combination": [
@@ -3063,9 +3247,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Gyros",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a360484107084401add1475402287908/1504739525_00001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "gyro",
+                    "link": "https://tasty.co/recipe/chicken-gyros"
                 },
                 {
                     "combination": [
@@ -3075,9 +3260,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheesy Lemon Chicken Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/221532.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheesy-lemon-chicken-pasta"
                 },
                 {
                     "combination": [
@@ -3087,9 +3273,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "SLow Cooker Cheesey Chicken Taquitos",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/7/19/asset/fcad69b55f07/sub-buzz-991-1646680351-13.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos",
+                    "link": "https://www.sixsistersstuff.com/recipe/slow-cooker-cheesy-chicken-taquitos/"
                 },
                 {
                     "combination": [
@@ -3099,9 +3286,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Hasselback Chicken",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/7cacf17aa8df42bd93f699c9a08e11ef/BFV6146_Hasselback_Chicken_Thumb_A.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with cheese and herbs",
+                    "link": "https://tasty.co/recipe/hasselback-chicken"
                 },
                 {
                     "combination": [
@@ -3111,9 +3299,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Noodle Soup",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/f4a9b7128a684ee685fcbd2774c1cac9/BFV8580_Classic_Chicken_Noodle_Soup-THUMBNAIL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup with chicken noddles and carrots",
+                    "link": "https://tasty.co/recipe/classic-chicken-noodle-soup"
                 },
                 {
                     "combination": [
@@ -3123,9 +3312,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Fiery Chicken and Vegetables Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/292568.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Creamy pasta",
+                    "link": "https://tasty.co/recipe/one-pot-fiery-chicken-vegetables-pasta"
                 },
                 {
                     "combination": [
@@ -3135,9 +3325,11 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Skillet Chicken Pot Pie",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f2590eb4e8f04d0cbde2f2234daac3dd/BFV22685_4_Easy_Rotisserie_Chicken_Dinners_FB_FINAL.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pot Pie",
+                    "link": "https://tasty.co/recipe/skillet-chicken-pot-pie"
+                
                 },
                 {
                     "combination": [
@@ -3147,9 +3339,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cauliflower Rice Chicken Bake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/96ffe39055d147969d2fbd382c56e0c6/BFV30903_LighterDinnerBakes4Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheesy chicken",
+                    "link": "https://tasty.co/recipe/cauliflower-rice-chicken-bake"
                 },
                 {
                     "combination": [
@@ -3159,9 +3352,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Hasselback Chicken",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b92dd89c586e494a85241472bbfd2c05/BFV12652_Hasselback_Chicken_4_Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken breast",
+                    "link": "https://tasty.co/recipe/creamy-bacon-hasselback-chicken"
                 },
                 {
                     "combination": [
@@ -3171,9 +3365,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Chicken Paprikash",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/acd7f176baf544a4ac4cc922c61046bd/BFV5347_Chicken-Paprika_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken and pasta",
+                    "link": "https://tasty.co/recipe/easy-chicken-paprikash"
                 },
                 {
                     "combination": [
@@ -3183,9 +3378,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken Cacciatore",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-2048-1535467209-1.jpg?crop=600%3A899%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chciken in sauce with vegetables",
+                    "link": "https://www.foodiecrush.com/slow-cooker-chicken-cacciatore/"
                 },
                 {
                     "combination": [
@@ -3195,9 +3391,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Asparagus-Stuffed Chicken Breast",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c52276e929bb44a0bb1dccc550aff16a/FB_Syphus_AsparagusStuffedChicken_v1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with cheese and asparagus inside",
+                    "link": "https://tasty.co/recipe/asparagus-stuffed-chicken-breast"
                 },
                 {
                     "combination": [
@@ -3207,9 +3404,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cozy Chicken and Dumplins",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/66b0e3ddd9db461c90196060a48b293a/FB_thumb-2.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Dumplings in sauce with carrots",
+                    "link": "https://tasty.co/recipe/cozy-chicken-and-dumplings"
                 },
                 {
                     "combination": [
@@ -3219,9 +3417,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chicken Quesodilla",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f74fd31be8064ab697d9c4199cae92d3/BFV28873_6MicrowaveMealsHACK.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Quesodilla",
+                    "link": "https://tasty.co/recipe/microwave-4-minute-chicken-quesadilla"
                 },
                 {
                     "combination": [
@@ -3231,9 +3430,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Chicken Pot Pie",
+                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/28/10/asset/buzzfeed-prod-web-06/sub-buzz-2974-1535467546-1.jpg?crop=750%3A1125%3B0%2C0&downsize=400:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken with carrots, celery, and peas with a biscuit",
+                    "link": "https://pipandebby.com/pip-ebby/the-best-slow-cooker-chicken-pot-pie/#_a5y_p=6231961"
                 },
                 {
                     "combination": [
@@ -3243,9 +3443,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sheet Pan Chicken Strips and Veggies",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/174452.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chicken strips and veggies",
+                    "link": "https://tasty.co/recipe/sheet-pan-crispy-chicken-strips-and-veggies"
                 },
                 {
                     "combination": [
@@ -3255,9 +3456,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Chicken Adobo",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/37925.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "chicken adobo",
+                    "link": "https://tasty.co/recipe/one-pan-chicken-adobo"
                 },
                 {
                     "combination": [
@@ -3267,9 +3469,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Chicken and Broccoli Pasta",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/3cec8b2008e4472da4341d95ce61cb58/One-Pot_Creamy_Chicken_And_Broccoli_Pasta_THUMB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-creamy-chicken-and-broccoli-pasta"
                 },
                 {
                     "combination": [
