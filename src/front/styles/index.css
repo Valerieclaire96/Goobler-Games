@@ -1,97 +1,54 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700&display=swap");
 
 * {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
 }
 
-body{
+body {
+  color: #25283d;
+  background: rgb(255, 255, 255);
+}
+
+nav {
+  background-color: #98dfea;
+  height: 3rem;
+  align-items: center;
+  box-shadow: 0 6px 19px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 6px 19px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 6px 19px rgba(0, 0, 0, 0.3);
+}
+
+a {
+  color: #25283d;
+  text-decoration: none;
+}
+
+.App {
+  width: 37.5rem;
   display: flex;
   justify-content: center;
-
+  flex-direction: column;
+  margin: 2rem auto;
 }
 
-.App{
-  width: 37.5rem;
-}
-
-h1{
+h1 {
   font-size: 2.5 rem;
   line-height: 1.05;
-  text-align: left;
 }
 
-h2{
+h2 {
   font-size: 3.5rem;
   line-height: 1.05;
   text-align: center;
 }
 
-
-
-h6
-{
+h6 {
   font-size: 1.125rem;
   line-height: 1.2;
 }
 
-p{
-  font-size: .9rem;
+p {
+  font-size: 0.9rem;
   color: grey;
-}
-
-.question-title{
-  width: 37.5rem;
-  height: 13.125rem;
-  background-color: rgb(102, 69, 221);
-  border-radius: 0.313rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-}
-
-.questions-container{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  row-gap: 1.565rem;
-}
-
-.question-block{
-  width: 17.875rem;
-  height: auto;
-  background-color: whitesmoke;
-  border-radius: 5px;
-  box-shadow: rgba(0,0,0,0.07) 0px 0px 0px 1px;
-  text-align: center;
-  margin-bottom: 0.938rem;
-  overflow: hidden;
-  border: none;
-  padding: 0;
-}
-
-.question-block p {
-  font-size: 0.688rem;
-  font: italic
-}
-
-.question-block a{
-  color: #999;
-  text-decoration: none;
-}
-
-.answer-block{
-  width: 37.5rem;
-  background-color: rgb(255,61,158);
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  color: whitesmoke;
-}
-
-.answer-block img{
-  width: 90%
 }

@@ -43,8 +43,7 @@ function CheeseQuiz() {
     else if(unansweredId.length <= 0 && chosenAnswer.length >= 1){
       //scroll to answer block
       setShowAnswer(true)
-      
-      //make scroll to middle not top
+      showAnswer.scrollIntoView({ behavior: "smooth"})
     } else {
     //scroll to highest unanswered question ID
     const highestId = Math.min(...unansweredId)
