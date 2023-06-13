@@ -3279,9 +3279,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle Chili and Cornbread Dumplings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b78a3842b1bc4e44875c30c4218d37a4/FinalFBforpkg.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings"
                 },
                 {
                     "combination": [
@@ -3291,9 +3292,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Meatball Sub Boats",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6f1ab55467694fff83e567133c60dae0/fb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatball subs",
+                    "link": "https://tasty.co/recipe/meatball-sub-boats"
                 },
                 {
                     "combination": [
@@ -3303,9 +3305,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Cheeseburger Nachos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f085e5ce2a344e18ba5d8c274ed9bebf/BFV10314_Nachos4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Nachos",
+                    "link": "https://tasty.co/recipe/bbq-cheeseburger-nachos"
                 },
                 {
                     "combination": [
@@ -3315,9 +3318,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/332483.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/classic-lasagna-soup"
                 },
                 {
                     "combination": [
@@ -3327,9 +3331,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Coooker Beef Stew",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9f860973f8f4411c8f146b5938a92e88/FBC.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef stew and mashed potatoes",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-stew"
                 },
                 {
                     "combination": [
@@ -3339,9 +3344,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Rigatoni Pie",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/55caf57185cd4806a5548e03293ba3b2/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Rigatoni pie",
+                    "link": "https://tasty.co/recipe/rigatoni-pie"
                 },
                 {
                     "combination": [
@@ -3351,9 +3357,23 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Lasagna-Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/c58e5e4f002a483e922317925ef332ce/fbthumbbbbb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed peppers", 
+                    "link": "https://tasty.co/recipe/lasagna-stuffed-peppers"
+                },
+                {
+                    "combination": [
+                        "Beef",
+                        "Lazy",
+                        "Water",
+                        "Cake",
+                        "Like an hour ago"
+                    ],
+                    "text": "Chili-Cheese Corn Bread Poke Cake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/173912.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Corn bread with beef",
+                    "link": "https://tasty.co/recipe/chili-cheese-corn-bread-poke-cake"
                 },
                 {
                     "combination": [
@@ -3363,9 +3383,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Mashed Potato Stuffed Meatloaf",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/765f774d3b774d8995389743da92521a/BFV29964_1lbGroundBeef4Dinners_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatloaf",
+                    "link": "https://tasty.co/recipe/mashed-potato-stuffed-meatloaf-cups"                
                 },
                 {
                     "combination": [
@@ -3375,9 +3396,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Taquitos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/189166.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos and chef",
+                    "link": "https://tasty.co/recipe/cheesy-taquitos-chequitos"
                 },
                 {
                     "combination": [
@@ -3387,9 +3409,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Meatballs",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8f40eaa2a0be4db1a1595d946771cac6/FB_05_for_Final.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatballs",
+                    "link": "https://tasty.co/recipe/teriyaki-meatballs"
                 },
                 {
                     "combination": [
@@ -3399,9 +3422,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Tater Tot Casserole",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/052a9481bb8648be923be64b3e54079e.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tater tot casserole",
+                    "link": "https://tasty.co/recipe/tater-tot-casserole"
                 },
                 {
                     "combination": [
@@ -3411,9 +3435,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Salt-Crusted Beef Tenderloin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ea55e383bbc54afaada4d3082a631448/BFV8134_Steak-in-Salt-Crust_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef Tenderloin",
+                    "link": "https://tasty.co/recipe/salt-crusted-beef-tenderloin"
                 },
                 {
                     "combination": [
@@ -3423,9 +3448,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "French Onion Burger",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ed2bf9cee8344e719d45cd5682da3367/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Burger",
+                    "link": "https://tasty.co/recipe/french-onion-burger"
                 },
                 {
                     "combination": [
@@ -3435,9 +3461,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b435429c1864149af15e80376cffe41/bfv7338_Skillet_Lasagna-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "lasagna",
+                    "link": "https://tasty.co/recipe/one-pan-lasagna"
                 },
                 {
                     "combination": [
@@ -3447,9 +3474,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Beef and Veggie Pasta",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/781ca78e105a4790aa9ddb7d43739041.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef pasta",
+                    "link": "https://tasty.co/recipe/easy-one-pot-creamy-beef-and-veggie-pasta"
                 },
                 {
                     "combination": [
@@ -3459,9 +3487,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pot Roast with Mashed Cauliflower",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e141bd6b8e974ddb8ebcd23741c15383/BFV36769_InstantPotDinners-FB1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pot roast",
+                    "link": "https://tasty.co/recipe/pot-roast-with-mashed-cauliflower"
                 },
                 {
                     "combination": [
@@ -3471,9 +3500,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stroganoff Potatoes",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ce2a1ad9a9944b65836b7351e0cd65c8/BFV14054_BeefStroganoffPotatoes-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stuffed potatoes",
+                    "link": "https://tasty.co/recipe/beef-stroganoff-potatoes"
                 },
                 {
                     "combination": [
@@ -3483,9 +3513,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Taco-stuffed Peppers",
+                    "image": "https://tasty.co/recipe/taco-stuffed-peppers",
+                    "alt": "Stuffed pepper",
+                    "link": "https://tasty.co/recipe/taco-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -3495,9 +3526,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Noodle Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/174425.jpg?resize=600:*&output-format=auto&output-quality=auto" ,
+                    "alt": "beef, broccoli, and noodles",
+                    "link": "https://tasty.co/recipe/20-minute-beef-and-broccoli-noodle-stir-fry"
                 },
                 {
                     "combination": [
@@ -3507,9 +3539,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Korean-Style BBQ Beef",
+                    "image": "https://tasty.co/recipe/korean-style-bbq-beef",
+                    "alt": "beef and Broccoli",
+                    "link": "https://tasty.co/recipe/korean-style-bbq-beef"
                 },
                 {
                     "combination": [
@@ -3519,9 +3552,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Traditional Vietnamese Beef Pho",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/152354.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pho",
+                    "link": "https://tasty.co/recipe/traditional-vietnamese-beef-pho"
                 },
                 {
                     "combination": [
@@ -3531,9 +3565,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Greek Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c4f6f9aac98d416c92a3bb10aa6523f7/BFV9954-_Greek_Stuffed_Peppers_-_FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed pepper",
+                    "link": "https://tasty.co/recipe/greek-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -3543,9 +3578,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheese Shell Tacos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ac950c4f30014457b97f2aadbd01d171/7uniquetacorecfb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tacos",
+                    "link": "https://tasty.co/recipe/cheese-shell-tacos"
                 },
                 {
                     "combination": [
@@ -3555,9 +3591,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesey Meatball Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a68734b8790a4b6cbdf750c7da7e4c2e/meatball_bake_FB_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatballs",
+                    "link": "https://tasty.co/recipe/cheesy-meatball-bake"
                 },
                 {
                     "combination": [
@@ -3567,9 +3604,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Simple Spaghetti and Meatballs",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/219ac250f4a244c78c7d3d332967a0ae/BFV27118_Spaghetti_and_Meatballs_FB_1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Spaghetti and meatballs",
+                    "link": "https://tasty.co/recipe/simple-spaghetti-and-meatballs"
                 },
                 {
                     "combination": [
@@ -3579,9 +3617,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crunch Taco Cups",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/49d1fdda10fe4ab5805db230c4b6d00d/BFV9179_CrunchyTacoCups-ThumbFB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taco cups",
+                    "link": "https://tasty.co/recipe/crunchy-taco-cups"
                 },
                 {
                     "combination": [
@@ -3591,9 +3630,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-pot Taco Spaghetti",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/31346a7d24254302ab0f7a8c984e1812/Square_Thumb_Option_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-taco-spaghetti"        
                 },
                 {
                     "combination": [
@@ -3603,9 +3643,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Nigerian Beef Stew",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/139529.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/nigerian-beef-stew"
                 },
                 {
                     "combination": [
@@ -3615,9 +3656,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Beer Goulash",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/114453.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Goulash and potatoes",
+                    "link": "https://tasty.co/recipe/beef-beer-goulash"
                 },
                 {
                     "combination": [
@@ -3627,9 +3669,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Peene Alla Vodka Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b225fb9eeca24294971fa3b9e48e9be0/BFV10008_Penne4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/penne-alla-vodka-pasta"
                 },
                 {
                     "combination": [
@@ -3639,9 +3682,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Taco Soup",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/399e4c04f9364dffb96889b6dc4d8aa1.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/one-pot-taco-soup"
                 },
                 {
                     "combination": [
@@ -3651,9 +3695,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Sausage Bolognese",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/bc7efd4989a8451eb7c3257f6eac5af9/BFV15908_CreamySausageBolognese(MEC)_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/creamy-sausage-bolognese"
                 },
                 {
                     "combination": [
@@ -3663,9 +3708,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Fried Rice",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3ee4b62b4373464383f360089538bdfe/BFV24904_FriedRice4Ways_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef fried rice",
+                    "link": "https://tasty.co/recipe/beef-broccoli-fried-rice"
                 },
                 {
                     "combination": [
@@ -3675,9 +3721,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheeseburger Sliders",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/30bc761b30c0414481db84df78bed152/BFV10402_Sliders4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheese burger slider",
+                    "link": "https://tasty.co/recipe/cheeseburger-sliders"
                 },
                 {
                     "combination": [
@@ -3687,9 +3734,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Beef and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c006f7c7d8b741da9fdf823c93507852/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef and broccoli",
+                    "link": "https://tasty.co/recipe/one-pan-beef-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -3699,9 +3747,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Wellington for Two",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2a219edd9a604b6cb5b41287973a1cd1/FB_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef Wellington",
+                    "link": "https://tasty.co/recipe/beef-wellington-for-two"
                 },
                 {
                     "combination": [
@@ -3711,9 +3760,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Vietnamese Shaking Beef",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/150402.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Vietnamese Shaking Beef",
+                    "link": "https://tasty.co/recipe/vietnamese-shaking-beef"
                 },
                 {
                     "combination": [
@@ -3723,9 +3773,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Shepherd's Pie twice-Baked Potatos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/241896.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Twice baked potatoes",
+                    "link": "https://tasty.co/recipe/shepherd-s-pie-twice-baked-potato"
                 },
                 {
                     "combination": [
@@ -3735,9 +3786,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Tacos",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/a395e2c509434246966cfd767a4a4fa0.jpeg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/easy-beef-tacos-with-guacamole-sour-cream-and-pico-de-gallo"
                 },
                 {
                     "combination": [
@@ -3747,9 +3799,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stew Gratin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/02e1c193494d46f09676fec686a0fe06/BFV13315_BeefStewGratin-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/beef-stew-gratin"
                 },
                 {
                     "combination": [
@@ -3759,9 +3812,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Stout Beef Chili",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9d8a645144b74f97a4b2ea61b85435dc/BFV5076-Stout-Chili-Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/easy-stout-beer-chili"
                 },
                 {
                     "combination": [
@@ -3771,9 +3825,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chili Beef Noodles",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7507e2098b0c426198537d7649bf1dd4/BFV12924_EasyNoodles4Ways-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Noodles",
+                    "link": "https://tasty.co/recipe/chili-beef-noodles"
                 },
                 {
                     "combination": [
@@ -3783,9 +3838,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sloppy Joe Sliders",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/74df56c66c5647fdabd17f95f0e72897/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "sloppy joes",
+                    "link": "https://tasty.co/recipe/sloppy-joe-sliders"
                 },
                 {
                     "combination": [
@@ -3795,9 +3851,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow-Cooked Beef and Stew Bread Bowl",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ba4efc8ce2be4ff2a8c1b18d1fdfea0f/ExtraPic.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew in bread bowl",
+                    "link": "https://tasty.co/recipe/disneyland-s-slow-cooked-beef-stew-bread-bowl"
                 },
                 {
                     "combination": [
@@ -3807,9 +3864,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stroganoff",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/148990.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef Stroganoff with pasta, carrots, and peas",
+                    "link": "https://tasty.co/recipe/beef-stroganoff"
                 },
                 {
                     "combination": [
@@ -3819,9 +3877,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Taco Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/121207.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/taco-soup"
                 },
                 {
                     "combination": [
@@ -3831,9 +3890,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Elevated Hamburger Helper",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1c9346dfd2714961ac777bc0e59b0162/BFV67137_ElevatedHamburgerHelper_YT_FINAL_V3.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with beef",
+                    "link": "https://tasty.co/recipe/elevated-hamburger-helper"
                 },
                 {
                     "combination": [
@@ -3843,9 +3903,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/249668.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Lasagna",
+                    "link": "https://tasty.co/recipe/classic-lasagna"
                 },
                 {
                     "combination": [
@@ -3855,9 +3916,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Spicy Beef Totchos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/237705.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Totchos",
+                    "link": "https://tasty.co/recipe/spicy-beef-totchos"
                 },
                 {
                     "combination": [
@@ -3867,9 +3929,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Rigatoni Pasta",
+                    "image": "https://tasty.co/recipe/beef-and-cheese-empanada",
+                    "alt": "Pasta with cheese",
+                    "link": "https://tasty.co/recipe/save-bake-beef-and-cheese-rigatoni"
                 },
                 {
                     "combination": [
@@ -3879,9 +3942,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheesey Taco Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4166d62617344273af5a01b90359f730/FBFINALPASTa.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheesey Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheesy-taco-pasta"                
                 },
                 {
                     "combination": [
@@ -3891,9 +3955,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Kenyan Beef Samosas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/139372.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Samosas",
+                    "link": "https://tasty.co/recipe/kenyan-beef-samosas"
                 },
                 {
                     "combination": [
@@ -3903,9 +3968,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Empanadas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/cb8ca5dec896461c86209d51514edd55/FINALFINALemp.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Empanadas",
+                    "link": "https://tasty.co/recipe/beef-and-cheese-empanada"
                 },
                 {
                     "combination": [
@@ -3915,9 +3981,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Tortellini Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/72c2993b1bef42dd98f7c86085f5aaa2/BFV21340_Beef_And_Cheese_Tortellini_Bake_THUMB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tortellini Bake",
+                    "link": "https://tasty.co/recipe/beef-and-cheese-tortellini-bake"
                 },
                 {
                     "combination": [
@@ -3927,9 +3994,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Taco Macaroni and Cheese",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/38b4a2d7e3ce4532b2e2b276e6fb98bc/BFV21796_One-PanCheesyTacoMacaroniandCheese-FBThumbnail10801080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pan-taco-macaroni-and-cheese"
                 },
                 {
                     "combination": [
@@ -3939,9 +4007,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Beef and Broccoli",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9534c85289dc40cbb0a30e5528137429/BFV6935_Slow-Cooker_Beef_and_Broccoli-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef,broccoli and rice",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-and-broccoli"
                 },
                 {
                     "combination": [
@@ -3951,9 +4020,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Beef Stew",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/200826.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/classic-beef-stew"
                 },
                 {
                     "combination": [
@@ -3963,9 +4033,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Beef and Broccoli",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/f48d0ecb8b494e1189d5117492cb7420/thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef, broccoli, and rice",
+                    "link": "https://tasty.co/recipe/easy-beef-and-broccoli"
                 },
                 {
                     "combination": [
@@ -3975,9 +4046,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Bean Burritos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/58ef7d23dad14adc9898d73fc6330336/BFV28863_FreezerPrepBurritos_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Burrito",
+                    "link": "https://tasty.co/recipe/beef-bean-burritos"
                 },
                 {
                     "combination": [
@@ -3987,9 +4059,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Barbacoa-Style Beef Tacos",
+                    "image": "https://tasty.co/recipe/slow-cooker-barbacoa-style-beef-tacos",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/slow-cooker-barbacoa-style-beef-tacos"
                 },
                 {
                     "combination": [
@@ -3999,9 +4072,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Por Swedish Meatball Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/37b0c33cf11a481f8189f6c37422b704/BFV8525_One-Pot_Swedish_Meatball_Pasta-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Swedish meatballs",
+                    "link": "https://tasty.co/recipe/one-pot-swedish-meatball-pasta"
                 },
                 {
                     "combination": [
@@ -4011,9 +4085,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Skillet Ground Beef Stroganoff",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/200924c395a54384a8242b345cb459ac/1506964169_00001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef stroganoff",
+                    "link": "https://tasty.co/recipe/one-skillet-ground-beef-stroganoff"
                 },
                 {
                     "combination": [
@@ -4023,9 +4098,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheeseburger Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/36ae3598f6ce40029766f7f2ae643826/BFV29964_1lbGroundBeef4Dinners_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheeseburger-pasta"
                 },
                 {
                     "combination": [
@@ -4035,9 +4111,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Beef and Broccoli",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9534c85289dc40cbb0a30e5528137429/BFV6935_Slow-Cooker_Beef_and_Broccoli-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef,broccoli and rice",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-and-broccoli"
                 },
                 {
                     "combination": [
@@ -4047,9 +4124,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Beef Stew",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/200826.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/classic-beef-stew"
                 },
                 {
                     "combination": [
@@ -4059,9 +4137,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Beef and Broccoli",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/f48d0ecb8b494e1189d5117492cb7420/thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef, broccoli, and rice",
+                    "link": "https://tasty.co/recipe/easy-beef-and-broccoli"
                 },
                 {
                     "combination": [
@@ -4071,9 +4150,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Bean Burritos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/58ef7d23dad14adc9898d73fc6330336/BFV28863_FreezerPrepBurritos_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Burrito",
+                    "link": "https://tasty.co/recipe/beef-bean-burritos"
                 },
                 {
                     "combination": [
@@ -4083,9 +4163,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Barbacoa-Style Beef Tacos",
+                    "image": "https://tasty.co/recipe/slow-cooker-barbacoa-style-beef-tacos",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/slow-cooker-barbacoa-style-beef-tacos"
                 },
                 {
                     "combination": [
@@ -4095,9 +4176,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Por Swedish Meatball Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/37b0c33cf11a481f8189f6c37422b704/BFV8525_One-Pot_Swedish_Meatball_Pasta-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Swedish meatballs",
+                    "link": "https://tasty.co/recipe/one-pot-swedish-meatball-pasta"
                 },
                 {
                     "combination": [
@@ -4107,9 +4189,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Skillet Ground Beef Stroganoff",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/200924c395a54384a8242b345cb459ac/1506964169_00001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef stroganoff",
+                    "link": "https://tasty.co/recipe/one-skillet-ground-beef-stroganoff"
                 },
                 {
                     "combination": [
@@ -4119,9 +4202,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheeseburger Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/36ae3598f6ce40029766f7f2ae643826/BFV29964_1lbGroundBeef4Dinners_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheeseburger-pasta"
                 },
                 {
                     "combination": [
@@ -4131,9 +4215,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle Chili and Cornbread Dumplings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b78a3842b1bc4e44875c30c4218d37a4/FinalFBforpkg.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings"
                 },
                 {
                     "combination": [
@@ -4143,9 +4228,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Meatball Sub Boats",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6f1ab55467694fff83e567133c60dae0/fb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatball subs",
+                    "link": "https://tasty.co/recipe/meatball-sub-boats"
                 },
                 {
                     "combination": [
@@ -4155,9 +4241,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Cheeseburger Nachos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f085e5ce2a344e18ba5d8c274ed9bebf/BFV10314_Nachos4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Nachos",
+                    "link": "https://tasty.co/recipe/bbq-cheeseburger-nachos"
                 },
                 {
                     "combination": [
@@ -4167,9 +4254,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/332483.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/classic-lasagna-soup"
                 },
                 {
                     "combination": [
@@ -4179,9 +4267,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Coooker Beef Stew",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9f860973f8f4411c8f146b5938a92e88/FBC.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef stew and mashed potatoes",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-stew"
                 },
                 {
                     "combination": [
@@ -4191,9 +4280,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Rigatoni Pie",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/55caf57185cd4806a5548e03293ba3b2/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Rigatoni pie",
+                    "link": "https://tasty.co/recipe/rigatoni-pie"
                 },
                 {
                     "combination": [
@@ -4203,9 +4293,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Greek Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c4f6f9aac98d416c92a3bb10aa6523f7/BFV9954-_Greek_Stuffed_Peppers_-_FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed pepper",
+                    "link": "https://tasty.co/recipe/greek-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -4215,9 +4306,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheese Shell Tacos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ac950c4f30014457b97f2aadbd01d171/7uniquetacorecfb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tacos",
+                    "link": "https://tasty.co/recipe/cheese-shell-tacos"
                 },
                 {
                     "combination": [
@@ -4227,9 +4319,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesey Meatball Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a68734b8790a4b6cbdf750c7da7e4c2e/meatball_bake_FB_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatballs",
+                    "link": "https://tasty.co/recipe/cheesy-meatball-bake"
                 },
                 {
                     "combination": [
@@ -4239,9 +4332,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Taquitos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/189166.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos and chef",
+                    "link": "https://tasty.co/recipe/cheesy-taquitos-chequitos"
                 },
                 {
                     "combination": [
@@ -4251,9 +4345,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Simple Spaghetti and Meatballs",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/219ac250f4a244c78c7d3d332967a0ae/BFV27118_Spaghetti_and_Meatballs_FB_1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Spaghetti and meatballs",
+                    "link": "https://tasty.co/recipe/simple-spaghetti-and-meatballs"
                 },
                 {
                     "combination": [
@@ -4263,9 +4358,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crunch Taco Cups",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/49d1fdda10fe4ab5805db230c4b6d00d/BFV9179_CrunchyTacoCups-ThumbFB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taco cups",
+                    "link": "https://tasty.co/recipe/crunchy-taco-cups"
                 },
                 {
                     "combination": [
@@ -4275,9 +4371,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-pot Taco Spaghetti",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/31346a7d24254302ab0f7a8c984e1812/Square_Thumb_Option_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-taco-spaghetti"
                 },
                 {
                     "combination": [
@@ -4287,9 +4384,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Nigerian Beef Stew",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/139529.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/nigerian-beef-stew"
                 },
                 {
                     "combination": [
@@ -4299,9 +4397,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Beer Goulash",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/114453.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Goulash and potatoes",
+                    "link": "https://tasty.co/recipe/beef-beer-goulash"
                 },
                 {
                     "combination": [
@@ -4311,9 +4410,11 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Taco Soup",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/399e4c04f9364dffb96889b6dc4d8aa1.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/one-pot-taco-soup"
+                
                 },
                 {
                     "combination": [
@@ -4323,9 +4424,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Sausage Bolognese",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/bc7efd4989a8451eb7c3257f6eac5af9/BFV15908_CreamySausageBolognese(MEC)_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/creamy-sausage-bolognese"
                 },
                 {
                     "combination": [
@@ -4335,9 +4437,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Fried Rice",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3ee4b62b4373464383f360089538bdfe/BFV24904_FriedRice4Ways_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef fried rice",
+                    "link": "https://tasty.co/recipe/beef-broccoli-fried-rice"
                 },
                 {
                     "combination": [
@@ -4347,9 +4450,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheeseburger Sliders",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/30bc761b30c0414481db84df78bed152/BFV10402_Sliders4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheese burger slider",
+                    "link": "https://tasty.co/recipe/cheeseburger-sliders"
                 },
                 {
                     "combination": [
@@ -4359,9 +4463,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Beef and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c006f7c7d8b741da9fdf823c93507852/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef and broccoli",
+                    "link": "https://tasty.co/recipe/one-pan-beef-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -4371,9 +4476,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Wellington for Two",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2a219edd9a604b6cb5b41287973a1cd1/FB_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef Wellington",
+                    "link": "https://tasty.co/recipe/beef-wellington-for-two"
                 },
                 {
                     "combination": [
@@ -4383,9 +4489,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Vietnamese Shaking Beef",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/150402.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Vietnamese Shaking Beef",
+                    "link": "https://tasty.co/recipe/vietnamese-shaking-beef"
                 },
                 {
                     "combination": [
@@ -4395,9 +4502,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Shepherd's Pie twice-Baked Potatos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/241896.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Twice baked potatoes",
+                    "link": "https://tasty.co/recipe/shepherd-s-pie-twice-baked-potato"
                 },
                 {
                     "combination": [
@@ -4407,9 +4515,9 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/a395e2c509434246966cfd767a4a4fa0.jpeg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/easy-beef-tacos-with-guacamole-sour-cream-and-pico-de-gallo"
                 },
                 {
                     "combination": [
@@ -4419,9 +4527,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stew Gratin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/02e1c193494d46f09676fec686a0fe06/BFV13315_BeefStewGratin-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/beef-stew-gratin"
                 },
                 {
                     "combination": [
@@ -4431,9 +4540,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Easy Stout Beef Chili",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9d8a645144b74f97a4b2ea61b85435dc/BFV5076-Stout-Chili-Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/easy-stout-beer-chili"
                 },
                 {
                     "combination": [
@@ -4443,9 +4553,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chili Beef Noodles",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7507e2098b0c426198537d7649bf1dd4/BFV12924_EasyNoodles4Ways-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Noodles",
+                    "link": "https://tasty.co/recipe/chili-beef-noodles"
                 },
                 {
                     "combination": [
@@ -4455,9 +4566,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Sloppy Joe Sliders",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/74df56c66c5647fdabd17f95f0e72897/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "sloppy joes",
+                    "link": "https://tasty.co/recipe/sloppy-joe-sliders"
                 },
                 {
                     "combination": [
@@ -4467,9 +4579,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow-Cooked Beef and Stew Bread Bowl",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ba4efc8ce2be4ff2a8c1b18d1fdfea0f/ExtraPic.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew in bread bowl",
+                    "link": "https://tasty.co/recipe/disneyland-s-slow-cooked-beef-stew-bread-bowl"
                 },
                 {
                     "combination": [
@@ -4479,9 +4592,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stroganoff",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/148990.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef Stroganoff with pasta, carrots, and peas",
+                    "link": "https://tasty.co/recipe/beef-stroganoff"
                 },
                 {
                     "combination": [
@@ -4491,9 +4605,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Taco Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/121207.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/taco-soup"
                 },
                 {
                     "combination": [
@@ -4503,9 +4618,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Elevated Hamburger Helper",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1c9346dfd2714961ac777bc0e59b0162/BFV67137_ElevatedHamburgerHelper_YT_FINAL_V3.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta with beef",
+                    "link": "https://tasty.co/recipe/elevated-hamburger-helper"
                 },
                 {
                     "combination": [
@@ -4515,9 +4631,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/249668.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Lasagna",
+                    "link": "https://tasty.co/recipe/classic-lasagna"
                 },
                 {
                     "combination": [
@@ -4527,9 +4644,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Spicy Beef Totchos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/237705.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Totchos",
+                    "link": "https://tasty.co/recipe/spicy-beef-totchos"
                 },
                 {
                     "combination": [
@@ -4539,9 +4657,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Rigatoni Pasta",
+                    "image": "https://tasty.co/recipe/beef-and-cheese-empanada",
+                    "alt": "Pasta with cheese",
+                    "link": "https://tasty.co/recipe/save-bake-beef-and-cheese-rigatoni"
                 },
                 {
                     "combination": [
@@ -4551,9 +4670,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheesey Taco Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4166d62617344273af5a01b90359f730/FBFINALPASTa.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheesey Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheesy-taco-pasta"
                 },
                 {
                     "combination": [
@@ -4563,9 +4683,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Kenyan Beef Samosas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/139372.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Samosas",
+                    "link": "https://tasty.co/recipe/kenyan-beef-samosas"
                 },
                 {
                     "combination": [
@@ -4575,9 +4696,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Empanadas",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/cb8ca5dec896461c86209d51514edd55/FINALFINALemp.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Empanadas",
+                    "link": "https://tasty.co/recipe/beef-and-cheese-empanada"
                 },
                 {
                     "combination": [
@@ -4587,9 +4709,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Cheese Tortellini Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/72c2993b1bef42dd98f7c86085f5aaa2/BFV21340_Beef_And_Cheese_Tortellini_Bake_THUMB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tortellini Bake",
+                    "link": "https://tasty.co/recipe/beef-and-cheese-tortellini-bake"
                 },
                 {
                     "combination": [
@@ -4599,9 +4722,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Taco Macaroni and Cheese",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/38b4a2d7e3ce4532b2e2b276e6fb98bc/BFV21796_One-PanCheesyTacoMacaroniandCheese-FBThumbnail10801080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pan-taco-macaroni-and-cheese"
                 },
                 {
                     "combination": [
@@ -4611,9 +4735,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Cooker Beef and Broccoli",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9534c85289dc40cbb0a30e5528137429/BFV6935_Slow-Cooker_Beef_and_Broccoli-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef,broccoli and rice",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-and-broccoli"
                 },
                 {
                     "combination": [
@@ -4623,9 +4748,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Taquitos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/189166.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos and chef",
+                    "link": "https://tasty.co/recipe/cheesy-taquitos-chequitos"
                 },
                 {
                     "combination": [
@@ -4635,9 +4761,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Meatballs",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8f40eaa2a0be4db1a1595d946771cac6/FB_05_for_Final.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatballs",
+                    "link": "https://tasty.co/recipe/teriyaki-meatballs"
                 },
                 {
                     "combination": [
@@ -4647,9 +4774,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Tater Tot Casserole",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/052a9481bb8648be923be64b3e54079e.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tater tot casserole",
+                    "link": "https://tasty.co/recipe/tater-tot-casserole"
                 },
                 {
                     "combination": [
@@ -4659,9 +4787,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Salt-Crusted Beef Tenderloin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ea55e383bbc54afaada4d3082a631448/BFV8134_Steak-in-Salt-Crust_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef Tenderloin",
+                    "link": "https://tasty.co/recipe/salt-crusted-beef-tenderloin"
                 },
                 {
                     "combination": [
@@ -4671,9 +4800,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "French Onion Burger",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ed2bf9cee8344e719d45cd5682da3367/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Burger",
+                    "link": "https://tasty.co/recipe/french-onion-burger"
                 },
                 {
                     "combination": [
@@ -4683,9 +4813,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b435429c1864149af15e80376cffe41/bfv7338_Skillet_Lasagna-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "lasagna",
+                    "link": "https://tasty.co/recipe/one-pan-lasagna"
                 },
                 {
                     "combination": [
@@ -4695,9 +4826,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Beef and Veggie Pasta",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/781ca78e105a4790aa9ddb7d43739041.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef pasta",
+                    "link": "https://tasty.co/recipe/easy-one-pot-creamy-beef-and-veggie-pasta"
                 },
                 {
                     "combination": [
@@ -4707,9 +4839,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pot Roast with Mashed Cauliflower",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e141bd6b8e974ddb8ebcd23741c15383/BFV36769_InstantPotDinners-FB1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pot roast",
+                    "link": "https://tasty.co/recipe/pot-roast-with-mashed-cauliflower"                
                 },
                 {
                     "combination": [
@@ -4719,9 +4852,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stroganoff Potatoes",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ce2a1ad9a9944b65836b7351e0cd65c8/BFV14054_BeefStroganoffPotatoes-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stuffed potatoes",
+                    "link": "https://tasty.co/recipe/beef-stroganoff-potatoes"
                 },
                 {
                     "combination": [
@@ -4731,9 +4865,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Taco-stuffed Peppers",
+                    "image": "https://tasty.co/recipe/taco-stuffed-peppers",
+                    "alt": "Stuffed pepper",
+                    "link": "https://tasty.co/recipe/taco-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -4743,9 +4878,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Noodle Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/174425.jpg?resize=600:*&output-format=auto&output-quality=auto" ,
+                    "alt": "beef, broccoli, and noodles",
+                    "link": "https://tasty.co/recipe/20-minute-beef-and-broccoli-noodle-stir-fry"
                 },
                 {
                     "combination": [
@@ -4755,9 +4891,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Korean-Style BBQ Beef",
+                    "image": "https://tasty.co/recipe/korean-style-bbq-beef",
+                    "alt": "beef and Broccoli",
+                    "link": "https://tasty.co/recipe/korean-style-bbq-beef"
                 },
                 {
                     "combination": [
@@ -4767,9 +4904,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Traditional Vietnamese Beef Pho",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/152354.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pho",
+                    "link": "https://tasty.co/recipe/traditional-vietnamese-beef-pho"
                 },
                 {
                     "combination": [
@@ -4779,9 +4917,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Greek Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c4f6f9aac98d416c92a3bb10aa6523f7/BFV9954-_Greek_Stuffed_Peppers_-_FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed pepper",
+                    "link": "https://tasty.co/recipe/greek-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -4791,9 +4930,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheese Shell Tacos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ac950c4f30014457b97f2aadbd01d171/7uniquetacorecfb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tacos",
+                    "link": "https://tasty.co/recipe/cheese-shell-tacos"
                 },
                 {
                     "combination": [
@@ -4803,9 +4943,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesey Meatball Bake",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/a68734b8790a4b6cbdf750c7da7e4c2e/meatball_bake_FB_thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatballs",
+                    "link": "https://tasty.co/recipe/cheesy-meatball-bake"
                 },
                 {
                     "combination": [
@@ -4815,9 +4956,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Simple Spaghetti and Meatballs",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/219ac250f4a244c78c7d3d332967a0ae/BFV27118_Spaghetti_and_Meatballs_FB_1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Spaghetti and meatballs",
+                    "link": "https://tasty.co/recipe/simple-spaghetti-and-meatballs"
                 },
                 {
                     "combination": [
@@ -4827,9 +4969,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Crunch Taco Cups",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/49d1fdda10fe4ab5805db230c4b6d00d/BFV9179_CrunchyTacoCups-ThumbFB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taco cups",
+                    "link": "https://tasty.co/recipe/crunchy-taco-cups"
                 },
                 {
                     "combination": [
@@ -4839,9 +4982,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-pot Taco Spaghetti",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/31346a7d24254302ab0f7a8c984e1812/Square_Thumb_Option_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/one-pot-taco-spaghetti"
                 },
                 {
                     "combination": [
@@ -4851,9 +4995,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Nigerian Beef Stew",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/139529.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stew",
+                    "link": "https://tasty.co/recipe/nigerian-beef-stew"
                 },
                 {
                     "combination": [
@@ -4863,9 +5008,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Beer Goulash",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/114453.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Goulash and potatoes",
+                    "link": "https://tasty.co/recipe/beef-beer-goulash"
                 },
                 {
                     "combination": [
@@ -4875,9 +5021,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Peene Alla Vodka Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b225fb9eeca24294971fa3b9e48e9be0/BFV10008_Penne4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/penne-alla-vodka-pasta"
                 },
                 {
                     "combination": [
@@ -4887,9 +5034,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Pot Taco Soup",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/399e4c04f9364dffb96889b6dc4d8aa1.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/one-pot-taco-soup"
                 },
                 {
                     "combination": [
@@ -4899,9 +5047,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Creamy Sausage Bolognese",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/bc7efd4989a8451eb7c3257f6eac5af9/BFV15908_CreamySausageBolognese(MEC)_ThumbA.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Pasta",
+                    "link": "https://tasty.co/recipe/creamy-sausage-bolognese"
                 },
                 {
                     "combination": [
@@ -4911,9 +5060,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Fried Rice",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3ee4b62b4373464383f360089538bdfe/BFV24904_FriedRice4Ways_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef fried rice",
+                    "link": "https://tasty.co/recipe/beef-broccoli-fried-rice"
                 },
                 {
                     "combination": [
@@ -4923,9 +5073,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheeseburger Sliders",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/30bc761b30c0414481db84df78bed152/BFV10402_Sliders4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Cheese burger slider",
+                    "link": "https://tasty.co/recipe/cheeseburger-sliders"
                 },
                 {
                     "combination": [
@@ -4935,9 +5086,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Beef and Broccoli Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c006f7c7d8b741da9fdf823c93507852/BFV16130_Stir-Fry_4_Ways_FB.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef and broccoli",
+                    "link": "https://tasty.co/recipe/one-pan-beef-and-broccoli-stir-fry"
                 },
                 {
                     "combination": [
@@ -4947,9 +5099,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Wellington for Two",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/2a219edd9a604b6cb5b41287973a1cd1/FB_1.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef Wellington",
+                    "link": "https://tasty.co/recipe/beef-wellington-for-two"
                 },
                 {
                     "combination": [
@@ -4959,9 +5112,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Vietnamese Shaking Beef",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/150402.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Vietnamese Shaking Beef",
+                    "link": "https://tasty.co/recipe/vietnamese-shaking-beef"
                 },
                 {
                     "combination": [
@@ -4971,9 +5125,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Shepherd's Pie twice-Baked Potatos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/241896.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Twice baked potatoes",
+                    "link": "https://tasty.co/recipe/shepherd-s-pie-twice-baked-potato"
                 },
                 {
                     "combination": [
@@ -4983,9 +5138,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Tacos",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/a395e2c509434246966cfd767a4a4fa0.jpeg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "tacos",
+                    "link": "https://tasty.co/recipe/easy-beef-tacos-with-guacamole-sour-cream-and-pico-de-gallo"
                 },
                 {
                     "combination": [
@@ -4995,9 +5151,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle Chili and Cornbread Dumplings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b78a3842b1bc4e44875c30c4218d37a4/FinalFBforpkg.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings"
                 },
                 {
                     "combination": [
@@ -5007,9 +5164,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Meatball Sub Boats",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6f1ab55467694fff83e567133c60dae0/fb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatball subs",
+                    "link": "https://tasty.co/recipe/meatball-sub-boats"
                 },
                 {
                     "combination": [
@@ -5019,9 +5177,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Cheeseburger Nachos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f085e5ce2a344e18ba5d8c274ed9bebf/BFV10314_Nachos4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Nachos",
+                    "link": "https://tasty.co/recipe/bbq-cheeseburger-nachos"
                 },
                 {
                     "combination": [
@@ -5031,9 +5190,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/332483.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/classic-lasagna-soup"
                 },
                 {
                     "combination": [
@@ -5043,9 +5203,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Coooker Beef Stew",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9f860973f8f4411c8f146b5938a92e88/FBC.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef stew and mashed potatoes",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-stew"
                 },
                 {
                     "combination": [
@@ -5055,9 +5216,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Rigatoni Pie",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/55caf57185cd4806a5548e03293ba3b2/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Rigatoni pie",
+                    "link": "https://tasty.co/recipe/rigatoni-pie"
                 },
                 {
                     "combination": [
@@ -5067,9 +5229,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Lasagna-Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/c58e5e4f002a483e922317925ef332ce/fbthumbbbbb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed peppers", 
+                    "link": "https://tasty.co/recipe/lasagna-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -5079,9 +5242,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chili-Cheese Corn Bread Poke Cake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/173912.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Corn bread with beef",
+                    "link": "https://tasty.co/recipe/chili-cheese-corn-bread-poke-cake"
                 },
                 {
                     "combination": [
@@ -5091,9 +5255,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Mashed Potato Stuffed Meatloaf",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/765f774d3b774d8995389743da92521a/BFV29964_1lbGroundBeef4Dinners_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatloaf",
+                    "link": "https://tasty.co/recipe/mashed-potato-stuffed-meatloaf-cups"
                 },
                 {
                     "combination": [
@@ -5103,9 +5268,9 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/189166.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos and chef",
+                    "link": "https://tasty.co/recipe/cheesy-taquitos-chequitos"
                 },
                 {
                     "combination": [
@@ -5115,9 +5280,10 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Meatballs",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8f40eaa2a0be4db1a1595d946771cac6/FB_05_for_Final.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatballs",
+                    "link": "https://tasty.co/recipe/teriyaki-meatballs"
                 },
                 {
                     "combination": [
@@ -5127,9 +5293,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Tater Tot Casserole",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/052a9481bb8648be923be64b3e54079e.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tater tot casserole",
+                    "link": "https://tasty.co/recipe/tater-tot-casserole"
                 },
                 {
                     "combination": [
@@ -5139,9 +5306,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Salt-Crusted Beef Tenderloin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ea55e383bbc54afaada4d3082a631448/BFV8134_Steak-in-Salt-Crust_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef Tenderloin",
+                    "link": "https://tasty.co/recipe/salt-crusted-beef-tenderloin"
                 },
                 {
                     "combination": [
@@ -5151,9 +5319,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b435429c1864149af15e80376cffe41/bfv7338_Skillet_Lasagna-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "lasagna",
+                    "link": "https://tasty.co/recipe/one-pan-lasagna"
                 },
                 {
                     "combination": [
@@ -5163,9 +5332,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Beef and Veggie Pasta",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/781ca78e105a4790aa9ddb7d43739041.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef pasta",
+                    "link": "https://tasty.co/recipe/easy-one-pot-creamy-beef-and-veggie-pasta"
                 },
                 {
                     "combination": [
@@ -5175,9 +5345,10 @@
                         "Fruit Salad",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pot Roast with Mashed Cauliflower",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e141bd6b8e974ddb8ebcd23741c15383/BFV36769_InstantPotDinners-FB1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pot roast",
+                    "link": "https://tasty.co/recipe/pot-roast-with-mashed-cauliflower"
                 },
                 {
                     "combination": [
@@ -5187,9 +5358,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pot Roast with Mashed Cauliflower",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e141bd6b8e974ddb8ebcd23741c15383/BFV36769_InstantPotDinners-FB1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pot roast",
+                    "link": "https://tasty.co/recipe/pot-roast-with-mashed-cauliflower"
                 },
                 {
                     "combination": [
@@ -5199,9 +5371,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Por Swedish Meatball Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/37b0c33cf11a481f8189f6c37422b704/BFV8525_One-Pot_Swedish_Meatball_Pasta-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Swedish meatballs",
+                    "link": "https://tasty.co/recipe/one-pot-swedish-meatball-pasta"
                 },
                 {
                     "combination": [
@@ -5211,9 +5384,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One Skillet Ground Beef Stroganoff",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/200924c395a54384a8242b345cb459ac/1506964169_00001.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef stroganoff",
+                    "link": "https://tasty.co/recipe/one-skillet-ground-beef-stroganoff"
                 },
                 {
                     "combination": [
@@ -5223,9 +5397,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Cheeseburger Pasta",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/36ae3598f6ce40029766f7f2ae643826/BFV29964_1lbGroundBeef4Dinners_FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef pasta",
+                    "link": "https://tasty.co/recipe/one-pot-cheeseburger-pasta"
                 },
                 {
                     "combination": [
@@ -5235,9 +5410,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chipotle Chili and Cornbread Dumplings",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b78a3842b1bc4e44875c30c4218d37a4/FinalFBforpkg.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Chili",
+                    "link": "https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings"
                 },
                 {
                     "combination": [
@@ -5247,9 +5423,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Meatball Sub Boats",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6f1ab55467694fff83e567133c60dae0/fb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Meatball subs",
+                    "link": "https://tasty.co/recipe/meatball-sub-boats"
                 },
                 {
                     "combination": [
@@ -5259,9 +5436,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "BBQ Cheeseburger Nachos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f085e5ce2a344e18ba5d8c274ed9bebf/BFV10314_Nachos4Ways.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Nachos",
+                    "link": "https://tasty.co/recipe/bbq-cheeseburger-nachos"
                 },
                 {
                     "combination": [
@@ -5271,9 +5449,10 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Classic Lasagna Soup",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/332483.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Soup",
+                    "link": "https://tasty.co/recipe/classic-lasagna-soup"
                 },
                 {
                     "combination": [
@@ -5283,9 +5462,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Slow Coooker Beef Stew",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/9f860973f8f4411c8f146b5938a92e88/FBC.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef stew and mashed potatoes",
+                    "link": "https://tasty.co/recipe/slow-cooker-beef-stew"
                 },
                 {
                     "combination": [
@@ -5295,9 +5475,10 @@
                         "Cookies",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Rigatoni Pie",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/55caf57185cd4806a5548e03293ba3b2/Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Rigatoni pie",
+                    "link": "https://tasty.co/recipe/rigatoni-pie"
                 },
                 {
                     "combination": [
@@ -5307,9 +5488,11 @@
                         "Cookies",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Lasagna-Stuffed Peppers",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/c58e5e4f002a483e922317925ef332ce/fbthumbbbbb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "stuffed peppers", 
+                    "link": "https://tasty.co/recipe/lasagna-stuffed-peppers"
+                
                 },
                 {
                     "combination": [
@@ -5319,9 +5502,10 @@
                         "Cookies",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Chili-Cheese Corn Bread Poke Cake",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/173912.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Corn bread with beef",
+                    "link": "https://tasty.co/recipe/chili-cheese-corn-bread-poke-cake"
                 },
                 {
                     "combination": [
@@ -5331,9 +5515,10 @@
                         "Fruit Salad",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Cheesy Taquitos",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/189166.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Taquitos and chef",
+                    "link": "https://tasty.co/recipe/cheesy-taquitos-chequitos"
                 },
                 {
                     "combination": [
@@ -5343,9 +5528,10 @@
                         "Fruit Salad",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Teriyaki Meatballs",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8f40eaa2a0be4db1a1595d946771cac6/FB_05_for_Final.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "meatballs",
+                    "link": "https://tasty.co/recipe/teriyaki-meatballs"
                 },
                 {
                     "combination": [
@@ -5355,9 +5541,10 @@
                         "Fruit Salad",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Tater Tot Casserole",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/052a9481bb8648be923be64b3e54079e.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Tater tot casserole",
+                    "link": "https://tasty.co/recipe/tater-tot-casserole"
                 },
                 {
                     "combination": [
@@ -5367,9 +5554,10 @@
                         "Ice Cream",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Salt-Crusted Beef Tenderloin",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ea55e383bbc54afaada4d3082a631448/BFV8134_Steak-in-Salt-Crust_Thumb.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "beef Tenderloin",
+                    "link": "https://tasty.co/recipe/salt-crusted-beef-tenderloin"
                 },
                 {
                     "combination": [
@@ -5379,9 +5567,10 @@
                         "Ice Cream",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "French Onion Burger",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ed2bf9cee8344e719d45cd5682da3367/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Burger",
+                    "link": "https://tasty.co/recipe/french-onion-burger"
                 },
                 {
                     "combination": [
@@ -5391,9 +5580,10 @@
                         "Ice Cream",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pan Lasagna",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b435429c1864149af15e80376cffe41/bfv7338_Skillet_Lasagna-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "lasagna",
+                    "link": "https://tasty.co/recipe/one-pan-lasagna"
                 },
                 {
                     "combination": [
@@ -5403,9 +5593,10 @@
                         "Ice Cream",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "One-Pot Creamy Beef and Veggie Pasta",
+                    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/781ca78e105a4790aa9ddb7d43739041.png?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Beef pasta",
+                    "link": "https://tasty.co/recipe/easy-one-pot-creamy-beef-and-veggie-pasta"
                 },
                 {
                     "combination": [
@@ -5415,9 +5606,10 @@
                         "Cake",
                         "All Day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Pot Roast with Mashed Cauliflower",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e141bd6b8e974ddb8ebcd23741c15383/BFV36769_InstantPotDinners-FB1080x1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "pot roast",
+                    "link": "https://tasty.co/recipe/pot-roast-with-mashed-cauliflower"
                 },
                 {
                     "combination": [
@@ -5427,9 +5619,10 @@
                         "Cake",
                         "A couple of hours"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef Stroganoff Potatoes",
+                    "image": "https://img.buzzfeed.com/video-api-prod/assets/ce2a1ad9a9944b65836b7351e0cd65c8/BFV14054_BeefStroganoffPotatoes-ThumbTextless1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+                    "alt": "Stuffed potatoes",
+                    "link": "https://tasty.co/recipe/beef-stroganoff-potatoes"
                 },
                 {
                     "combination": [
@@ -5439,9 +5632,10 @@
                         "Cake",
                         "About an Hour"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Taco-stuffed Peppers",
+                    "image": "https://tasty.co/recipe/taco-stuffed-peppers",
+                    "alt": "Stuffed pepper",
+                    "link": "https://tasty.co/recipe/taco-stuffed-peppers"
                 },
                 {
                     "combination": [
@@ -5451,9 +5645,11 @@
                         "Cake",
                         "Like an hour ago"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Beef and Broccoli Noodle Stir-Fry",
+                    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/174425.jpg?resize=600:*&output-format=auto&output-quality=auto" ,
+                    "alt": "beef, broccoli, and noodles",
+                    "link": "https://tasty.co/recipe/20-minute-beef-and-broccoli-noodle-stir-fry"
+                
                 },
                 {
                     "combination": [
@@ -5463,9 +5659,10 @@
                         "Cookies",
                         "All day"
                     ],
-                    "text": "",
-                    "image": "",
-                    "alt": ""
+                    "text": "Korean-Style BBQ Beef",
+                    "image": "https://tasty.co/recipe/korean-style-bbq-beef",
+                    "alt": "beef and Broccoli",
+                    "link": "https://tasty.co/recipe/korean-style-bbq-beef"
                 },
                 {
                     "combination": [
