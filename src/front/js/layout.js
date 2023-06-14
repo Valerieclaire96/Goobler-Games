@@ -13,6 +13,7 @@ import { Footer } from "./component/footer";
 
 import CheeseQuiz from "./pages/CheeseQuiz";
 import DogQuiz from "./pages/DogQuiz";
+import DinnerQuiz from "./pages/DinnerQuiz";
 
 //create your first component
 const Layout = () => {
@@ -33,7 +34,7 @@ const Layout = () => {
                         <Route element={<Single />} path="/single/:theid" />
                         <Route element={<CheeseQuiz />} path="/quiz/cheese" />
                         <Route element={<DogQuiz />} path="/quiz/dog" />
-
+                        <Route element={<DinnerQuiz />} path="/quiz/dinner"/>
                         <Route element={<h1>Not found!</h1>} />
                     </Routes>
                     <Footer />

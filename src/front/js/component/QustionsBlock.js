@@ -1,14 +1,10 @@
 import React, { forwardRef } from "react";
 import QuestionBlock from "./QuestionBlock";
 
-export default forwardRef(function QuestionsBlock({
-  quizItem,
-  setChosenAnswer,
-  chosenAnswer,
-  setUnansweredId,
-  unansweredId,
-}, ref) {
-
+export default forwardRef(function QuestionsBlock(
+  { quizItem, setChosenAnswer, chosenAnswer, setUnansweredId, unansweredId },
+  ref
+) {
   return (
     <div>
       <h2 ref={ref} className="question-title">
@@ -29,4 +25,4 @@ export default forwardRef(function QuestionsBlock({
       </div>
     </div>
   );
-})
+});
