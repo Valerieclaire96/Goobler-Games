@@ -1,9 +1,9 @@
 import React, { useState, useEffect, createRef } from "react";
-import Title from "../component/Title";
-import DinnerAnswerBlock from "../component/DinnerAnswerBlock";
-import QuestionsBlock from "../component/QustionsBlock.js";
+import Title from "../../component/Quizes/Title";
+import DogAnswerBlock from "../../component/Quizes/DogAnswerBlock";
+import QuestionsBlock from "../../component/Quizes/QustionsBlock.js";
 
-function DinnerQuiz() {
+function DogQuiz() {
   const [quiz, setQuiz] = useState(null);
   const [chosenAnswer, setChosenAnswer] = useState([]);
   const [unansweredId, setUnansweredId] = useState(null);
@@ -31,7 +31,7 @@ function DinnerQuiz() {
   }, []);
 
   useEffect(() => {
-    const unansweredId = quiz?.dinnerQuiz.content?.map(({ id }) => id);
+    const unansweredId = quiz?.dogQuiz.content?.map(({ id }) => id);
     setUnansweredId(unansweredId);
   }, [quiz]);
 
@@ -42,6 +42,8 @@ function DinnerQuiz() {
       } else if (unansweredId.length <= 0 && chosenAnswer.length >= 1) {
         //scroll to answer block
         setShowAnswer(true);
+
+        //make scroll to middle not top
       } else {
         //scroll to highest unanswered question ID
         const highestId = Math.min(...unansweredId);
@@ -49,27 +51,28 @@ function DinnerQuiz() {
       }
     }
   }, [unansweredId, chosenAnswer, showAnswer, answerRef, refs]);
+
   return (
     <div className="App">
-      <Title
-        title={quiz?.dinnerQuiz.title}
-        subtitle={quiz?.dinnerQuiz.subtitle}
-      />
+      <Title title={quiz?.dogQuiz.title} subtitle={quiz?.dogQuiz.subtitle} />
       {refs &&
-        quiz?.dinnerQuiz.content?.map((contentItem) => (
-          <QuestionsBlock
-            setChosenAnswer={setChosenAnswer}
-            chosenAnswer={chosenAnswer}
-            setUnansweredId={setUnansweredId}
-            unansweredId={unansweredId}
-            key={contentItem.id}
-            quizItem={contentItem}
-            ref={refs[contentItem.id]}
-          />
+        quiz?.dogQuiz.content?.map((contentItem) => (
+          <div>
+            {console.log(contentItem.id, "here")}
+            <QuestionsBlock
+              setChosenAnswer={setChosenAnswer}
+              chosenAnswer={chosenAnswer}
+              setUnansweredId={setUnansweredId}
+              unansweredId={unansweredId}
+              key={contentItem.id}
+              quizItem={contentItem}
+              ref={refs[contentItem.id]}
+            />
+          </div>
         ))}
       {showAnswer && (
-        <DinnerAnswerBlock
-          answerOptions={quiz?.dinnerQuiz.answers}
+        <DogAnswerBlock
+          answerOptions={quiz?.dogQuiz.answers}
           chosenAnswers={chosenAnswer}
           ref={answerRef}
         />
@@ -78,4 +81,4 @@ function DinnerQuiz() {
   );
 }
 
-export default DinnerQuiz;
+export default DogQuiz;

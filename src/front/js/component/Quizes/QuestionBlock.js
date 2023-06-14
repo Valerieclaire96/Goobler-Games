@@ -29,7 +29,7 @@ export default function QuestionBlock({
           height="190px"
           width="100%"
         />
-        <h3>{question.text}</h3>
+        <h3 className="mx-1 px-0">{question.text}</h3>
         <p>
           <a href={question.image}>{question.credit} </a>
         </p>

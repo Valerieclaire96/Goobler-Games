@@ -1,9 +1,9 @@
 import React, { useState, useEffect, createRef } from "react";
-import Title from "../component/Title";
-import AnswerBlock from "../component/AnswerBlock";
-import QuestionsBlock from "../component/QustionsBlock.js";
+import Title from "../../component/Quizes/Title";
+import DinnerAnswerBlock from "../../component/Quizes/DinnerAnswerBlock";
+import QuestionsBlock from "../../component/Quizes/QustionsBlock.js";
 
-function CheeseQuiz() {
+function DinnerQuiz() {
   const [quiz, setQuiz] = useState(null);
   const [chosenAnswer, setChosenAnswer] = useState([]);
   const [unansweredId, setUnansweredId] = useState(null);
@@ -31,7 +31,7 @@ function CheeseQuiz() {
   }, []);
 
   useEffect(() => {
-    const unansweredId = quiz?.cheeseQuiz.content?.map(({ id }) => id);
+    const unansweredId = quiz?.dinnerQuiz.content?.map(({ id }) => id);
     setUnansweredId(unansweredId);
   }, [quiz]);
 
@@ -52,11 +52,11 @@ function CheeseQuiz() {
   return (
     <div className="App">
       <Title
-        title={quiz?.cheeseQuiz.title}
-        subtitle={quiz?.cheeseQuiz.subtitle}
+        title={quiz?.dinnerQuiz.title}
+        subtitle={quiz?.dinnerQuiz.subtitle}
       />
       {refs &&
-        quiz?.cheeseQuiz.content?.map((contentItem) => (
+        quiz?.dinnerQuiz.content?.map((contentItem) => (
           <QuestionsBlock
             setChosenAnswer={setChosenAnswer}
             chosenAnswer={chosenAnswer}
@@ -68,8 +68,8 @@ function CheeseQuiz() {
           />
         ))}
       {showAnswer && (
-        <AnswerBlock
-          answerOptions={quiz?.cheeseQuiz.answers}
+        <DinnerAnswerBlock
+          answerOptions={quiz?.dinnerQuiz.answers}
           chosenAnswers={chosenAnswer}
           ref={answerRef}
         />
@@ -78,4 +78,4 @@ function CheeseQuiz() {
   );
 }
 
-export default CheeseQuiz;
+export default DinnerQuiz;

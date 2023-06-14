@@ -19,9 +19,9 @@ export default forwardRef(function AnswerBlock({ answerOptions, chosenAnswers },
 
  
   return (
-    <div ref={ref} className='answer-block'>
-      <h2 className='my-2'>{result?.text}</h2>
-      <img src={result?.image} alt={result?.text} />
+    <div ref={ref} className="answer-block container-fluid h-100">
+      <h2 className="my-4">{result?.text}</h2>
+      <img src={result?.image} className="mb-4" alt={result?.text} />
     </div>
   )
 }

@@ -1,9 +1,9 @@
 import React, { useState, useEffect, createRef } from "react";
-import Title from "../component/Title";
-import DogAnswerBlock from "../component/DogAnswerBlock";
-import QuestionsBlock from "../component/QustionsBlock.js";
+import Title from "../../component/Quizes/Title";
+import AnswerBlock from "../../component/Quizes/AnswerBlock";
+import QuestionsBlock from "../../component/Quizes/QustionsBlock.js";
 
-function DogQuiz() {
+function CheeseQuiz() {
   const [quiz, setQuiz] = useState(null);
   const [chosenAnswer, setChosenAnswer] = useState([]);
   const [unansweredId, setUnansweredId] = useState(null);
@@ -31,7 +31,7 @@ function DogQuiz() {
   }, []);
 
   useEffect(() => {
-    const unansweredId = quiz?.dogQuiz.content?.map(({ id }) => id);
+    const unansweredId = quiz?.cheeseQuiz.content?.map(({ id }) => id);
     setUnansweredId(unansweredId);
   }, [quiz]);
 
@@ -42,8 +42,6 @@ function DogQuiz() {
       } else if (unansweredId.length <= 0 && chosenAnswer.length >= 1) {
         //scroll to answer block
         setShowAnswer(true);
-
-        //make scroll to middle not top
       } else {
         //scroll to highest unanswered question ID
         const highestId = Math.min(...unansweredId);
@@ -51,28 +49,27 @@ function DogQuiz() {
       }
     }
   }, [unansweredId, chosenAnswer, showAnswer, answerRef, refs]);
-
   return (
     <div className="App">
-      <Title title={quiz?.dogQuiz.title} subtitle={quiz?.dogQuiz.subtitle} />
+      <Title
+        title={quiz?.cheeseQuiz.title}
+        subtitle={quiz?.cheeseQuiz.subtitle}
+      />
       {refs &&
-        quiz?.dogQuiz.content?.map((contentItem) => (
-          <div>
-            {console.log(contentItem.id, "here")}
-            <QuestionsBlock
-              setChosenAnswer={setChosenAnswer}
-              chosenAnswer={chosenAnswer}
-              setUnansweredId={setUnansweredId}
-              unansweredId={unansweredId}
-              key={contentItem.id}
-              quizItem={contentItem}
-              ref={refs[contentItem.id]}
-            />
-          </div>
+        quiz?.cheeseQuiz.content?.map((contentItem) => (
+          <QuestionsBlock
+            setChosenAnswer={setChosenAnswer}
+            chosenAnswer={chosenAnswer}
+            setUnansweredId={setUnansweredId}
+            unansweredId={unansweredId}
+            key={contentItem.id}
+            quizItem={contentItem}
+            ref={refs[contentItem.id]}
+          />
         ))}
       {showAnswer && (
-        <DogAnswerBlock
-          answerOptions={quiz?.dogQuiz.answers}
+        <AnswerBlock
+          answerOptions={quiz?.cheeseQuiz.answers}
           chosenAnswers={chosenAnswer}
           ref={answerRef}
         />
@@ -81,4 +78,4 @@ function DogQuiz() {
   );
 }
 
-export default DogQuiz;
+export default CheeseQuiz;

@@ -39,7 +39,7 @@ export const Home = () => {
               className="card-img-top"
               src="https://i.imgur.com/gAe7Uqc.jpg"
               alt="Card image cap"
-              height="250px"
+              height="275px"
             />
             <div className="card-body">
               <a href="/quiz/dog" className="btn btn-light">
