@@ -1,0 +1,9 @@
+.excuse-container{
+    height: 100vh;
+    width: 80vw
+}
+
+
+.excuseVariable:hover{
+    cursor: pointer;
+}

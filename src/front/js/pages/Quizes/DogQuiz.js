@@ -18,7 +18,7 @@ function DogQuiz() {
 
   const fetchData = async () => {
     try {
-      const response = await fetch("http://localhost:8000/quizes");
+      const response = await fetch("https://valerieclaire96-fantastic-spoon-x6wwqp5949x2v9x-8000.preview.app.github.dev/quizes");
       const json = await response.json();
       setQuiz(json);
     } catch (err) {

@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ScrollToTop from "./component/scrollToTop";
-import { BackendURL } from "./component/backendURL";
 
 import { Home } from "./pages/home";
 import { Demo } from "./pages/demo";
@@ -14,6 +13,9 @@ import { Footer } from "./component/footer";
 import CheeseQuiz from "./pages/Quizes/CheeseQuiz";
 import DogQuiz from "./pages/Quizes/DogQuiz";
 import DinnerQuiz from "./pages/Quizes/DinnerQuiz";
+import ExcuseGenerator from "./pages/Generators/ExcuseGenerator";
+import Madlib from "./pages/Generators/MadlibGenerator";
+import Date from "./pages/Generators/DateGenerator";
 
 //create your first component
 const Layout = () => {
@@ -21,8 +23,6 @@ const Layout = () => {
   // you can set the basename on the .env file located at the root of this project, E.g: BASENAME=/react-hello-webapp/
   const basename = process.env.BASENAME || "";
 
-  if (!process.env.BACKEND_URL || process.env.BACKEND_URL == "")
-    return <BackendURL />;
 
   return (
     <div>
@@ -36,6 +36,9 @@ const Layout = () => {
             <Route element={<CheeseQuiz />} path="/quiz/cheese" />
             <Route element={<DogQuiz />} path="/quiz/dog" />
             <Route element={<DinnerQuiz />} path="/quiz/dinner" />
+            <Route element={<ExcuseGenerator />} path="/generators/excuse" />
+            <Route element={<Madlib />} path="/generators/madlib" />
+            <Route element={<Date />} path="/generators/date"/>
             <Route element={<h1>Not found!</h1>} />
           </Routes>
           <Footer />
