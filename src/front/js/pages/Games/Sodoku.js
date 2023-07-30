@@ -1,100 +1,103 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react';
+import "../../styles/sodoku.css";
 
-export default function Sodoku() {
-  var numSelected =  null;
-var tileSelected = null;
 
-var errors = 0;
+const boardData = [
+  "--74916-5",
+  "2---6-3-9",
+  "-----7-1-",
+  "-586----4",
+  "--3----9-",
+  "--62--187",
+  "9-4-7---2",
+  "67-83----",
+  "81--45---",
+];
 
-var board = [
-    "--74916-5",
-    "2---6-3-9",
-    "-----7-1-",
-    "-586----4",
-    "--3----9-",
-    "--62--187",
-    "9-4-7---2",
-    "67-83----",
-    "81--45---"
-]
+const solutionData = [
+  "387491625",
+  "241568379",
+  "569327418",
+  "758619234",
+  "123784596",
+  "496253187",
+  "934176852",
+  "675832941",
+  "812945763",
+];
 
-var solution = [
-    "387491625",
-    "241568379",
-    "569327418",
-    "758619234",
-    "123784596",
-    "496253187",
-    "934176852",
-    "675832941",
-    "812945763"
-]
+const SudokuGame = () => {
+  const [numSelected, setNumSelected] = useState(null);
+  const [errors, setErrors] = useState(0);
+  const [board, setBoard] = useState(boardData.map((row) => row.split('')));
+  const [solution] = useState(solutionData);
 
-window.onload = function() {
+  useEffect(() => {
     setGame();
-}
+  }, []); // Empty dependency array ensures it runs only once on component mount
 
-function setGame(){
-    for(let i = 1; i <= 9; i++){
-        let number = document.createElement("div");
-        number.id = i;
-        number.innerText = i;
-        number.addEventListener("click", selectNumber)
-        number.classList.add("number")
-        document.getElementById("digits").appendChild(number)
+  const setGame = () => {
+    // Setup the game board
+    // ... (Same as the setGame() function in the original code)
+
+    // Other parts of the original setGame() function that create the Sudoku board go here.
+  };
+
+  const selectNumber = (num) => () => {
+    setNumSelected(num);
+  };
+
+  const selectTile = (r, c) => () => {
+    if (!numSelected) return;
+    if (board[r][c] !== '-') return;
+
+    if (solution[r][c] === numSelected) {
+      // Set the selected number on the board
+      const newBoard = [...board];
+      newBoard[r][c] = numSelected;
+      setBoard(newBoard);
+    } else {
+      setErrors((prevErrors) => prevErrors + 1);
     }
+  };
 
-
-    for( let r = 0; r < 9; r++){
-        for(let c = 0; c< 9; c++){
-            let tile = document.createElement("div");
-            tile.id = r.toString()+ "-" + c.toString();
-            if(board[r][c] != "-"){
-                tile.innerText = board[r][c]; 
-                tile.classList.add("tile-start")
-            }
-            if ( r == 2 || r == 5){
-                tile.classList.add("horizontal-line")
-            } 
-            if( c == 2 || c == 5){
-                tile.classList.add("vertical-line")
-            } 
-            tile.addEventListener("click", selectTile)
-            tile.classList.add("tile");
-            document.getElementById("board").appendChild(tile);
-        
-        }
-    }
-}
-
-function selectNumber(){
-    if(numSelected != null){
-        numSelected.classList.remove("number-selected");
-    }
-    numSelected = this;
-    numSelected.classList.add("number-selected");
-}
-
-function selectTile(){
-    if(numSelected){
-        if(this.innerText != ""){
-            return;
-        }
-        this.innerText = numSelected.id
-        let coords = this.id.split("-");
-        let r = parseInt(coords[0]);
-        let c = parseInt(coords[1]);
-
-        if( solution[r][c] == numSelected.id){
-            this.innerText= numSelected.id;
-        }
-        else{
-            errors += 1;
-            document.getElementById("errors").innerText = errors;
-        }
-    }
-}
   return (
-    <div>Sodoku</div>
-  )
-}
+    <div>
+      {/* Render the Sudoku board */}
+      <div id="board">
+        {/* Render the Sudoku board tiles */}
+        {board.map((row, r) => (
+          <div key={r} className="board-row">
+            {row.map((cell, c) => (
+              <div
+                key={c}
+                className={`tile ${cell === '-' ? 'empty-tile' : 'tile-start'}`}
+                onClick={selectTile(r, c)}
+              >
+                {cell === '-' ? '' : cell}
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+
+      {/* Render the number options */}
+      <div id="digits">
+        {[1, 2, 3, 4, 5, 6, 7, 8, 9].map((num) => (
+          <div
+            key={num}
+            className={`number ${numSelected === num ? 'number-selected' : ''}`}
+            onClick={selectNumber(num)}
+          >
+            {num}
+          </div>
+        ))}
+      </div>
+
+      {/* Display errors count */}
+      <div id="errors">Errors: {errors}</div>
+    </div>
+  );
+};
+
+export default SudokuGame;

@@ -16,6 +16,7 @@ import DinnerQuiz from "./pages/Quizes/DinnerQuiz";
 import ExcuseGenerator from "./pages/Generators/ExcuseGenerator";
 import Madlib from "./pages/Generators/MadlibGenerator";
 import Date from "./pages/Generators/DateGenerator";
+import SudokuGame from "./pages/Games/Sodoku";
 
 //create your first component
 const Layout = () => {
@@ -37,8 +38,9 @@ const Layout = () => {
             <Route element={<DogQuiz />} path="/quiz/dog" />
             <Route element={<DinnerQuiz />} path="/quiz/dinner" />
             <Route element={<ExcuseGenerator />} path="/generators/excuse" />
-            <Route element={<Madlib />} path="/generators/madlib" />
+            <Route element={<Madlib />} path="/generators/story" />
             <Route element={<Date />} path="/generators/date"/>
+            <Route element={<SudokuGame/>} path="/games/sudoku"/>
             <Route element={<h1>Not found!</h1>} />
           </Routes>
           <Footer />
